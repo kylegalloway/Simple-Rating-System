@@ -14,6 +14,8 @@ I used an adjusted simple rating system.
 2. I added a schedule factor to each team.
   * The schedule factor was determined by adding the ratings of all of their past competitors ratings.
 
+Finally, this adjustment is iterated over 5000 times (Starts to diverge really smoothly at ~3000-4000), to allow the ratings to level out.
+
 Each team’s rating is simply the sum of their (adjusted) margin of victory and their sum of their opponent’s average (adjusted) MOV.
 The SRS puts equal weight on all games, something the brain is not good at doing.
 
