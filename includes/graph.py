@@ -1,99 +1,48 @@
+import re
+from includes.team import Team
+from includes.adj_list import Adjlist
+
 class Graph():
 
     def __init__(self,filename):
-        self._filename = filename
+        self._inputFilename = filename
+        self._outputFilename = re.sub('data/', '', filename)
         self._teams = {}
         self._array = []
         self._size = 0
+        self.ITERATION_CONSTANT = 5000
 
 
     def buildGraph(self):
         print('Reading File...')
-        with open(self._filename, 'r') as f:
+        with open(self._inputFilename, 'r') as f:
             for line in f:
-                while line != '':
-                    # team1 = line[:33]
-                    # score1 = line[33:37]
-                    # team2 = line[37:70]
-                    # score2 = line[70:]
-                    # team1 = team1.strip()
-                    # score1 = eval(score1.strip())
-                    # team2 = team2.strip()
-                    # score2 = eval(score2.strip())
-                    processed = self.processLine(line.strip())
-                    team1 = processed[0]
-                    score1 = processed[1]
-                    team2 = processed[2]
-                    score2 = processed[3]
-                    scoreDiff1 = score1 - score2
+                if line:
+                    pattern = re.compile(r'([^0-9]+)([0-9]+)([^0-9]+)([0-9]+)')
+                    game = pattern.search(str(line).strip())
+                    scoreDiff1 = eval(game.group(2)) - eval(game.group(4))
                     scoreDiff2 = 0 - scoreDiff1
                     scoreDiff1 = self.improveScores(scoreDiff1)
                     scoreDiff2 = self.improveScores(scoreDiff2)
-                    self.fillGraph(team1,team2,scoreDiff1,scoreDiff2)
+                    self.fillGraph(game.group(1),game.group(3),scoreDiff1,scoreDiff2)
             print("Done")
-
-    def processLine(self,line):
-        newString = ''
-        count = 0
-        for i in line:
-            if count == 0:
-                if not i.isdigit():
-                    newString += i
-                else:
-                    team1 = newString
-                    newString = ''
-                    count += 1
-            if count == 1:
-                if not i.isalpha():
-                    newString += i
-                else:
-                    score1 = newString
-                    newString = ''
-                    count += 1
-            if count == 2:
-                if not i.isdigit():
-                    newString += i
-                else:
-                    team2 = newString
-                    newString = ''
-                    count += 1
-            if count == 3:
-                if not i.isalpha():
-                    newString += i
-                else:
-                    score2 = newString
-                    newString = ''
-                    count += 1
-
-        team1 = team1.strip()
-        score1 = eval(score1.strip())
-        team2 = team2.strip()
-        score2 = eval(score2.strip())
-
-        return [team1,score1,team2,score2]
 
     def improveScores(self,scoreDiff):
         if scoreDiff < 0:
-            if scoreDiff > -3:
-                scoreDiff = -3
-            elif scoreDiff < -28:
-                scoreDiff = -28
+            if scoreDiff > -3: scoreDiff = -3
+            elif scoreDiff < -28: scoreDiff = -28
             scoreDiff += -7
         elif scoreDiff > 0:
-            if scoreDiff < 3:
-                scoreDiff = 3
-            elif scoreDiff > 28:
-                scoreDiff = 28
+            if scoreDiff < 3: scoreDiff = 3
+            elif scoreDiff > 28: scoreDiff = 28
             scoreDiff += 7
         return scoreDiff
 
 
     def fillGraph(self,team1,team2,scoreDiff1,scoreDiff2):
-        if team1 not in self._teams.keys():
-            self.addTeam(team1)
+        if team1 not in self._teams.keys(): self.addTeam(team1)
         self.addGame(team1,team2,scoreDiff1)
-        if team2 not in self._teams.keys():
-            self.addTeam(team2)
+        if team2 not in self._teams.keys(): self.addTeam(team2)
         self.addGame(team2,team1,scoreDiff2)
 
     def addTeam(self,team):
@@ -107,29 +56,19 @@ class Graph():
         arrayIndex = self.getTeam(team1)
         self._array[arrayIndex].insert(team2,float(scoreDiff))
 
-    def getSize(self):
-        return self._size
-
-    def getTeam(self,name):
-        return self._teams[name]
+    def getSize(self): return self._size
+    def getTeam(self,name): return self._teams[name]
 
     def rateTeams(self):
         print('Calculating Ratings...')
         for team in range(len(self._array)):
             place = self._array[team].head.next
-            total = 0
-            count = 0
-            W = 0
-            L = 0
-            T = 0
+            total, count, W, L, T = 0, 0 ,0 ,0 ,0
             while place != None:
                 scoreDiff = place.getScoreDiff()
-                if scoreDiff > 0:
-                    W += 1
-                elif scoreDiff < 0:
-                    L += 1
-                else:
-                    T += 1
+                if scoreDiff > 0: W += 1
+                elif scoreDiff < 0: L += 1
+                else: T += 1
                 total += scoreDiff
                 count += 1
                 place = place.next
@@ -139,11 +78,10 @@ class Graph():
             self._array[team].head.setWins(W)
             self._array[team].head.setLosses(L)
             self._array[team].head.setTies(T)
-        for i in range(5000):
+        for i in range(self.ITERATION_CONSTANT):
             for team in range(len(self._array)):
                 place = self._array[team].head.next
-                total = 0
-                count = 0
+                total, count = 0, 0
                 while place != None:
                     team2 = self.getTeam(place.getTeam2())
                     total += self._array[team2].head.getRating()
@@ -160,10 +98,10 @@ class Graph():
 
     def printRatings(self):
         print("Printing Ratings...")
-        newfilename = 'rankings_' + self._filename
+        newfilename = 'output/Rankings/rankings_' + self._outputFilename
         with open(newfilename, 'w') as f:
-            spacer = ' ' * (32 - len('Team'))
-            f.write(('Rank\tTeam{0}W-L-T\tRating\n').format(spacer))
+            spacer = ' ' * 28
+            f.write(('Rank     Team{0}W-L-T    Rating\n').format(spacer))
             count = 1
             lyst = []
             for team in sorted(self._teams.keys(),key=lambda team: self._array[self.getTeam(team)].head.getRating(),reverse=True):
@@ -172,13 +110,14 @@ class Graph():
                 W = self._array[thisTeam].head.getWins()
                 L = self._array[thisTeam].head.getLosses()
                 T = self._array[thisTeam].head.getTies()
+                team = team.strip()
                 spacer = ' ' * (32 - len(team))
-                f.write(('{0}\t\t{1}{2}{3}-{4}-{5}\t{6}\n').format(count,team,spacer,W,L,T,round(rating,4)))
+                f.write(('{0}        {1}{2}{3}-{4}-{5}    {6}\n').format(count,team,spacer,W,L,T,round(rating,4)))
                 count += 1
-        newfilename = 'strofsch_' + self._filename
+        newfilename = 'output/SOS/strofsch_' + self._outputFilename
         with open(newfilename, 'w') as f:
-            spacer = ' ' * (32 - len('Team'))
-            f.write(('Rank\tTeam{0}W-L-T\tSchedule Factor\n').format(spacer))
+            spacer = ' ' * 28
+            f.write(('Rank     Team{0}W-L-T    Schedule Factor\n').format(spacer))
             count = 1
             lyst = []
             for team in sorted(self._teams.keys(),key=lambda team: self._array[self.getTeam(team)].head.getScheduleFactor(),reverse=True):
@@ -187,7 +126,8 @@ class Graph():
                 W = self._array[thisTeam].head.getWins()
                 L = self._array[thisTeam].head.getLosses()
                 T = self._array[thisTeam].head.getTies()
+                team = team.strip()
                 spacer = ' ' * (32 - len(team))
-                f.write(('{0}\t\t{1}{2}{3}-{4}-{5}\t{6}\n').format(count,team,spacer,W,L,T,round(schedule_factor,4)))
+                f.write(('{0}        {1}{2}{3}-{4}-{5}    {6}\n').format(count,team,spacer,W,L,T,round(schedule_factor,4)))
                 count += 1
         print("Done")

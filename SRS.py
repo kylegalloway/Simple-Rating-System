@@ -8,9 +8,6 @@
 '''
 import sys
 import time
-from includes.team import Team
-from includes.game import Game
-from includes.adj_list import Adjlist
 from includes.graph import Graph
 
 def main(filename):
