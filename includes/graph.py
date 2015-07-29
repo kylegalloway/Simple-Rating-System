@@ -98,7 +98,7 @@ class Graph():
 
     def printRatings(self):
         print("Printing Ratings...")
-        newfilename = 'output/Rankings/rankings_' + self._outputFilename
+        newfilename = 'output/Ratings/ratings_' + self._outputFilename
         with open(newfilename, 'w') as f:
             spacer = ' ' * 28
             f.write(('Rank     Team{0}W-L-T    Rating\n').format(spacer))
