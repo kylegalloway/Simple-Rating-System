@@ -1,5 +1,13 @@
 # Simple Rating System
 
+### Operation
+1. Clone the repository.
+2. Open a terminal
+3. Run:   python3 SRS.py data/(txtfile) where (textfile) is replaced with the file you want to run against
+4. Results are in the output directories
+
+Only tested on Linux/OSX.
+
 ### Some Links to explanations of how it works
 * http://www.pro-football-reference.com/blog/?p=37
 * http://smartfootball.com/chase-stuart/the-simple-rating-system-bringing-order-kinda-to-chaos#sthash.3yVxxp8E.dpbs
