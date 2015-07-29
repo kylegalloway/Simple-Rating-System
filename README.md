@@ -3,7 +3,7 @@
 ### Operation
 1. Clone the repository.
 2. Open a terminal
-3. Run:   python3 SRS.py data/(txtfile) where (textfile) is replaced with the file you want to run against
+3. Run:   ```python3 SRS.py data/(txtfile)``` where (textfile) is replaced with the file you want to run against
 4. Results are in the output directories
 
 Only tested on Linux/OSX.
