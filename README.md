@@ -13,6 +13,7 @@ Only tested on Linux/OSX.
 * http://smartfootball.com/chase-stuart/the-simple-rating-system-bringing-order-kinda-to-chaos#sthash.3yVxxp8E.dpbs
 * http://www.footballperspective.com/category/srs/
 * http://fivethirtyeight.com/tag/simple-rating-system/
+* http://www.sports-reference.com/blog/2015/03/srs-calculation-details/
 
 I used an adjusted simple rating system.
 
