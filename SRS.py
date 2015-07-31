@@ -7,14 +7,18 @@
 import sys
 import time
 from includes.graph import Graph
+from includes.file_io import FileIO
 
 def main(filename):
-	G = Graph(filename)
-	G.buildGraph()
+	G = Graph()
+	file = FileIO(filename)
+	G.buildGraph(file)
 	print()
 	G.rateTeams()
 	print()
-	G.printRatings()
+    teams = G.getTeams()
+    teamNames = G.getTeamNames()
+	file.printRatings(teamNames,teams)
 	print()
 
 main(sys.argv[1])
