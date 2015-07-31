@@ -1,6 +1,6 @@
 import re
 from includes.team import Team
-from includes.adj_list import Adjlist
+from includes.adj_list import AdjList
 
 class Graph():
 
@@ -46,7 +46,7 @@ class Graph():
         self.addGame(team2,team1,scoreDiff2)
 
     def addTeam(self,team):
-        A = Adjlist()
+        A = AdjList()
         A.insertHead(team)
         self._array.append(A)
         self._teams[team] = self._size
