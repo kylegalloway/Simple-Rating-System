@@ -9,7 +9,7 @@ class FileIO():
     def readFile(self):
         print('Reading File...')
         with open(self._inputFilename, 'r') as file:
-        return file
+            return file
 
     def parseLine(self, line = None):
         if line:
