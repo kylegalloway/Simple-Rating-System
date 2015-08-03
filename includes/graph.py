@@ -8,7 +8,7 @@ class Graph():
         self._teams = {}
         self._array = []
         self._size = 0
-        algorithm = RatingAlgorithm()
+        self.algorithm = RatingAlgorithm()
 
     def buildGraph(self, reader):
         file = reader.readFile()
@@ -17,11 +17,11 @@ class Graph():
             game = reader.parseLine(line)
 
         if game:
-            scoreDiff1 = eval(game.group(awayScore)) - eval(game.group(homeScore))
+            scoreDiff1 = eval(game.group(2)) - eval(game.group(4))
             scoreDiff2 = 0 - scoreDiff1
-            scoreDiff1 = algorithm.improveScores(scoreDiff1)
-            scoreDiff2 = algorithm.improveScores(scoreDiff2)
-            self.fillGraph(game.group(awayTeam),game.group(homeTeam),scoreDiff1,scoreDiff2)
+            scoreDiff1 = self.algorithm.improveScores(scoreDiff1)
+            scoreDiff2 = self.algorithm.improveScores(scoreDiff2)
+            self.fillGraph(game.group(1),game.group(3),scoreDiff1,scoreDiff2)
         print("Done")
 
 
