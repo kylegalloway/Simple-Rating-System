@@ -1,10 +1,11 @@
 # Simple Rating System
 
-### Operation
+### Operation (Python)
 1. Clone the repository.
-2. Open a terminal
-3. Run:   ```python3 SRS.py data/(txtfile)``` where (textfile) is replaced with the file you want to run against
-4. Results are in the output directories
+2. Open a terminal/command prompt.
+3. Navigate to the python subdirectory.
+4. Run:   ```python3 SRS.py data/(textfile)``` where (textfile) is replaced with the file you want to run against.
+5. Results are in the output directories.
 
 Only tested on Linux/OSX.
 
@@ -25,7 +26,7 @@ I used an adjusted simple rating system.
 
 Finally, this adjustment is iterated over 5000 times (Starts to diverge really smoothly at ~3000-4000), to allow the ratings to level out.
 
-Each team’s rating is simply the sum of their (adjusted) margin of victory and their sum of their opponent’s average (adjusted) MOV.
+Each team’s rating is simply the sum of their (adjusted) margin of victory (MOV) and their sum of their opponent’s average (adjusted) MOV.
 The SRS puts equal weight on all games, something the brain is not good at doing.
 
 It takes a bit to run on the larger files.

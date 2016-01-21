@@ -1,0 +1,11 @@
+Rank     Team                            W-L-T    Schedule Factor
+1        Park Field                      1-0-0    1.5
+2        Mississippi                     0-2-0    1.0
+3        Union (Tennessee)               0-1-0    0.0
+4        Mississippi                     1-0-0    0.0
+5        Camp Shelby                     0-1-0    0.0
+6        Mississippi State               2-0-0    0.0
+7        Payne Field                     2-0-0    0.0
+8        Mississippi                     0-1-0    0.0
+9        Mississippi State               0-2-0    -1.0
+10        Mississippi State               1-0-0    -1.5

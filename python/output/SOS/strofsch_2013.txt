@@ -1,0 +1,2120 @@
+Rank     Team                            W-L-T    Schedule Factor
+1        Wake Forest                     0-1-0    75.1268
+2        Duke                            0-1-0    75.1268
+3        Florida                         0-1-0    75.1268
+4        Northwestern                    0-1-0    65.0453
+5        Illinois                        0-1-0    65.0453
+6        Wofford                         0-1-0    59.2214
+7        Florida                         0-1-0    57.1782
+8        Texas                           0-1-0    56.1843
+9        Mississippi St                  0-1-0    56.0439
+10        San Diego St                    0-1-0    55.1697
+11        Florida A&M                     0-1-0    55.1697
+12        Purdue                          0-2-0    54.655
+13        Louisiana-Monroe                0-2-0    54.5677
+14        Mississippi                     0-1-0    54.2837
+15        Chattanooga                     0-1-0    54.2837
+16        Arkansas                        0-1-0    54.2837
+17        Temple                          0-1-0    52.033
+18        Mississippi St                  0-1-0    51.8701
+19        New Mexico St                   0-1-0    51.8359
+20        Iowa St                         0-2-0    51.6575
+21        Temple                          0-1-0    51.4166
+22        Miami FL                        0-1-0    51.4166
+23        South Dakota St                 0-1-0    51.3769
+24        Austin Peay                     0-1-0    51.3646
+25        UCLA                            4-2-0    51.0741
+26        Boston College                  0-1-0    50.598
+27        Utah                            0-1-0    50.598
+28        Tennessee                       0-1-0    50.2997
+29        Minnesota                       0-2-0    50.1777
+30        California                      0-5-0    50.068
+31        Iowa                            0-1-0    49.7552
+32        Western Carolina                0-2-0    48.9043
+33        Stanford                        7-1-0    48.8925
+34        The Citadel                     0-1-0    48.7155
+35        Mississippi St                  1-3-0    48.2527
+36        Oklahoma                        5-2-0    48.0453
+37        Holy Cross                      0-1-0    47.4879
+38        William & Mary                  0-1-0    47.4879
+39        Nicholls St                     0-2-0    47.4489
+40        Utah                            1-3-0    47.1204
+41        Notre Dame                      5-1-0    46.9677
+42        Arizona St                      3-1-0    46.8857
+43        Central Michigan                0-1-0    46.8591
+44        Arkansas                        0-1-0    46.5485
+45        Kentucky                        0-2-0    46.1387
+46        Mississippi                     2-2-0    46.0983
+47        Nevada                          0-1-0    45.7114
+48        Bethune-Cookman                 0-1-0    45.7114
+49        Maryland                        0-1-0    45.7114
+50        Texas                           5-2-0    45.5802
+51        Indiana                         0-3-0    45.1696
+52        Washington                      3-3-0    44.7668
+53        Southern Cal                    0-1-0    44.6921
+54        Penn State                      1-3-0    44.4075
+55        Colorado                        0-4-0    44.3355
+56        Georgia St                      0-2-0    44.3137
+57        Middle Tennessee St             0-1-0    44.2039
+58        Colorado                        0-1-0    43.9767
+59        Boise St                        0-1-0    43.9767
+60        Virginia                        0-1-0    43.6473
+61        Auburn                          9-1-0    43.6012
+62        California                      1-6-0    43.4953
+63        Auburn                          3-1-0    43.1792
+64        Michigan St                     6-1-0    43.0153
+65        Washington St                   3-4-0    42.8049
+66        Lamar                           0-2-0    42.7606
+67        LSU                             2-3-0    42.6154
+68        Colorado St                     0-2-0    42.5203
+69        Akron                           0-1-0    42.4294
+70        South Dakota                    0-1-0    42.3541
+71        Towson                          0-1-0    42.3541
+72        Kansas                          0-3-0    42.3376
+73        Missouri                        6-1-0    42.2742
+74        Utah                            4-3-0    41.9575
+75        Texas Tech                      4-3-0    41.886
+76        Eastern Kentucky                0-2-0    41.834
+77        Southern Cal                    6-1-0    41.4851
+78        Missouri Southern               0-1-0    41.431
+79        Arizona St                      7-3-0    41.4082
+80        Texas A&M                       3-2-0    41.3765
+81        Nevada                          0-5-0    41.3653
+82        Massachusetts                   0-1-0    41.2426
+83        TCU                             1-4-0    41.1422
+84        Florida St                      7-0-0    41.0968
+85        Kentucky                        0-1-0    41.0376
+86        Presbyterian                    0-1-0    41.0196
+87        West Virginia                   1-3-0    41.0092
+88        Delaware                        0-1-0    40.9054
+89        Army                            0-1-0    40.9054
+90        Virginia Tech                   4-3-0    40.903
+91        Syracuse                        0-2-0    40.6483
+92        Tennessee                       1-3-0    40.5404
+93        Pittsburgh                      0-1-0    40.4089
+94        Georgia                         3-3-0    40.3881
+95        St Francis PA                   0-1-0    40.3655
+96        Oklahoma St                     6-2-0    40.3466
+97        Kansas St                       2-2-0    40.2757
+98        North Carolina St               0-4-0    40.0843
+99        Western Michigan                0-1-0    40.0714
+100        Oregon St                       4-2-0    39.7932
+101        Kentucky                        0-4-0    39.6513
+102        Nebraska                        4-1-0    39.4108
+103        Maryland                        0-1-0    39.3823
+104        Washington St                   3-3-0    39.2875
+105        Baylor                          3-1-0    39.1714
+106        Wisconsin                       3-3-0    39.1537
+107        Georgia                         5-2-0    39.0778
+108        South Carolina                  8-0-0    39.0602
+109        Eastern Michigan                0-1-0    38.8564
+110        Butler                          0-1-0    38.7627
+111        Florida A&M                     0-1-0    38.7627
+112        Kansas                          0-2-0    38.643
+113        Murray St                       0-1-0    38.5371
+114        Middle Tennessee St             0-1-0    38.515
+115        Wake Forest                     0-2-0    38.3279
+116        Iowa St                         1-5-0    38.184
+117        Florida                         1-3-0    38.132
+118        UTEP                            0-4-0    38.0776
+119        Lafayette                       0-1-0    37.9948
+120        Maine                           0-1-0    37.9948
+121        Ohio U.                         0-3-0    37.9685
+122        Oregon                          4-2-0    37.9162
+123        Oregon                          7-0-0    37.8399
+124        Stanford                        4-2-0    37.7657
+125        Arizona                         5-2-0    37.7657
+126        Virginia                        2-5-0    37.7511
+127        TCU                             0-1-0    37.7187
+128        Purdue                          0-3-0    37.6933
+129        West Virginia                   0-2-0    37.657
+130        Nebraska                        5-3-0    37.6305
+131        Michigan                        2-3-0    37.4518
+132        Alabama                         3-1-0    37.4424
+133        Northern Colorado               0-1-0    37.4136
+134        Appalachian St                  0-2-0    37.3493
+135        Kansas                          3-4-0    37.1523
+136        Ohio State                      7-1-0    37.1461
+137        Southern Miss                   0-2-0    37.1061
+138        North Carolina                  2-3-0    37.064
+139        Michigan                        5-2-0    37.0319
+140        South Florida                   0-2-0    36.9955
+141        Oregon St                       3-4-0    36.9652
+142        Connecticut                     2-5-0    36.7868
+143        LSU                             8-0-0    36.7797
+144        Wyoming                         0-2-0    36.6661
+145        McNeese St                      0-1-0    36.5664
+146        South Carolina                  3-2-0    36.547
+147        Louisiana-Lafayette             0-1-0    36.522
+148        Illinois                        3-4-0    36.3479
+149        Boise St                        2-4-0    36.2741
+150        Arizona                         3-3-0    36.2154
+151        Iowa                            4-2-0    36.1729
+152        Northwestern                    3-3-0    35.8204
+153        Clemson                         7-1-0    35.817
+154        West Virginia                   3-3-0    35.7785
+155        Northwestern St                 0-1-0    35.7634
+156        Georgia Tech                    2-4-0    35.7286
+157        Massachusetts                   0-5-0    35.5879
+158        Elon                            0-1-0    35.5851
+159        Kansas St                       6-3-0    35.5839
+160        Baylor                          8-1-0    35.4895
+161        Boston College                  5-1-0    35.4894
+162        Northwestern                    0-1-0    35.46
+163        Indiana                         0-1-0    35.46
+164        Tennessee Tech                  0-1-0    35.46
+165        Rutgers                         1-4-0    35.4556
+166        Iowa                            4-2-0    35.3321
+167        Akron                           0-1-0    35.3266
+168        Idaho                           0-2-0    35.2672
+169        Vanderbilt                      3-2-0    35.2411
+170        San Jose St                     3-3-0    35.2411
+171        TCU                             3-3-0    35.1773
+172        Florida Atlantic                0-1-0    35.1074
+173        Wake Forest                     1-3-0    34.8577
+174        Arkansas St                     0-2-0    34.7371
+175        Northern Arizona                0-2-0    34.6343
+176        Purdue                          0-2-0    34.6218
+177        Texas St-San Marcos             0-1-0    34.4172
+178        Pittsburgh                      3-2-0    34.3706
+179        Virginia Tech                   4-2-0    34.3437
+180        Indiana St                      0-1-0    34.328
+181        Tennessee                       4-3-0    34.1842
+182        Rice                            0-1-0    34.1199
+183        Alcorn St                       0-1-0    34.1199
+184        Troy                            0-1-0    34.1199
+185        San Diego St                    4-3-0    34.018
+186        Minnesota                       5-1-0    34.0052
+187        Arkansas                        3-3-0    33.9049
+188        Arkansas                        0-4-0    33.7331
+189        Wake Forest                     3-2-0    33.621
+190        Navy                            3-2-0    33.6025
+191        Lindenwood                      0-1-0    33.568
+192        Colorado                        4-3-0    33.559
+193        Vanderbilt                      6-2-0    33.514
+194        Texas A&M                       6-2-0    33.4918
+195        Minnesota                       0-1-0    33.4801
+196        Michigan                        0-1-0    33.4801
+197        UW-Stevens Point                0-1-0    33.4055
+198        UW-La Crosse                    0-1-0    33.4055
+199        Toledo                          2-3-0    33.3893
+200        Oklahoma St                     4-1-0    33.3819
+201        Missouri                        6-1-0    33.3297
+202        Maryland                        3-1-0    33.1479
+203        Pittsburgh                      4-3-0    33.0091
+204        Tulsa                           0-2-0    33.0038
+205        Southern Cal                    4-2-0    33.0006
+206        Texas                           3-2-0    32.9173
+207        Ohio State                      5-1-0    32.863
+208        South Florida                   1-2-0    32.786
+209        TAMU-Kingsville                 0-1-0    32.7761
+210        Alabama-Birmingham              1-6-0    32.7392
+211        Brigham Young                   3-3-0    32.6678
+212        St John's MN                    0-1-0    32.6628
+213        Louisiana-Monroe                4-1-0    32.538
+214        Virginia                        0-3-0    32.2507
+215        Air Force                       0-5-0    32.1469
+216        Furman                          0-2-0    32.1426
+217        Purdue                          1-4-0    32.0751
+218        Notre Dame                      4-3-0    32.0186
+219        Northwestern                    2-2-0    31.962
+220        Illinois                        1-3-0    31.9432
+221        Northern Iowa                   0-1-0    31.9079
+222        Alabama                         8-1-0    31.8852
+223        Boston College                  2-4-0    31.8218
+224        UCLA                            6-1-0    31.817
+225        Iowa St                         2-2-0    31.8138
+226        Syracuse                        3-2-0    31.7809
+227        North Carolina St               3-5-0    31.7041
+228        Texas Tech                      4-2-0    31.6853
+229        Brigham Young                   5-2-0    31.6611
+230        Connecticut                     1-4-0    31.5727
+231        Rhode Island                    0-2-0    31.4119
+232        Tennessee-Martin                2-3-0    31.3163
+233        Minnesota                       3-1-0    31.178
+234        Tarleton St                     0-1-0    31.1517
+235        Valdosta St                     0-1-0    31.1517
+236        Shorter                         0-1-0    31.1517
+237        Indiana                         5-3-0    30.7399
+238        South Florida                   1-4-0    30.6422
+239        Arkansas St                     0-1-0    30.5816
+240        Clemson                         4-1-0    30.5389
+241        UNLV                            3-3-0    30.5133
+242        Nebraska-Kearney                0-2-0    30.4912
+243        Yale                            0-1-0    30.4825
+244        Hawai`i                         1-5-0    30.4023
+245        Illinois St                     0-6-0    30.3578
+246        Tulsa                           1-5-0    30.3485
+247        Sacramento St                   0-3-0    30.2988
+248        Virginia                        0-1-0    30.2648
+249        Florida Int'l                   0-3-0    30.2619
+250        Mississippi                     6-2-0    30.2345
+251        Oklahoma                        6-0-0    30.1821
+252        Duke                            5-0-0    30.008
+253        Utah St                         4-3-0    29.9947
+254        Kent St                         0-2-0    29.8123
+255        Akron                           2-3-0    29.5501
+256        New Mexico St                   0-4-0    29.5413
+257        Arkansas St                     3-2-0    29.4817
+258        San Jose St                     3-3-0    29.4728
+259        Miami FL                        3-2-0    29.3493
+260        Prairie View A&M                0-1-0    29.1997
+261        Eastern Michigan                0-6-0    29.1739
+262        Miami OH                        0-1-0    29.1515
+263        Houston                         3-3-0    29.1189
+264        Southern Miss                   0-1-0    29.1122
+265        Kent St                         2-3-0    28.9588
+266        North Dakota                    0-1-0    28.8799
+267        Weber St                        0-1-0    28.8799
+268        SMU                             0-1-0    28.7433
+269        Hawai`i                         0-1-0    28.7216
+270        Penn State                      6-2-0    28.7079
+271        Upper Iowa                      0-1-0    28.6768
+272        Fairmont St                     0-1-0    28.5576
+273        Fresno St                       7-0-0    28.4927
+274        South Alabama                   4-2-0    28.4568
+275        Savannah St                     0-3-0    28.2962
+276        SMU                             3-3-0    28.2692
+277        Central Florida                 5-1-0    28.1975
+278        SMU                             2-3-0    28.1729
+279        Hawai`i                         0-5-0    28.1413
+280        UNC-Charlotte                   0-1-0    28.0829
+281        Delaware St                     0-3-0    27.9196
+282        Western Michigan                1-5-0    27.8968
+283        Tiffin                          0-1-0    27.8574
+284        Central St OH                   0-2-0    27.8249
+285        Florida Int'l                   0-2-0    27.811
+286        Rhode Island                    0-2-0    27.7961
+287        Colorado St                     5-2-0    27.7579
+288        North Carolina                  5-3-0    27.7211
+289        Air Force                       2-5-0    27.655
+290        Miami OH                        0-5-0    27.5786
+291        Villanova                       2-4-0    27.556
+292        Jackson St                      0-1-0    27.4706
+293        Texas-San Antonio               3-3-0    27.3316
+294        Temple                          1-4-0    27.3308
+295        New Mexico                      1-5-0    27.2899
+296        Southern Miss                   1-4-0    27.2566
+297        UC-Davis                        0-1-0    27.2413
+298        Indiana St                      0-2-0    27.2394
+299        Washington                      6-1-0    27.1496
+300        Western Michigan                0-1-0    27.0293
+301        Buffalo                         0-1-0    26.9159
+302        Eastern Michigan                0-1-0    26.9159
+303        East Carolina                   4-2-0    26.9029
+304        Northern Illinois               5-0-0    26.8974
+305        Toledo                          5-1-0    26.8436
+306        Florida Int'l                   0-4-0    26.673
+307        Weber St                        0-5-0    26.5718
+308        Central Florida                 7-0-0    26.4172
+309        Weber St                        0-2-0    26.3379
+310        Northern Arizona                0-1-0    26.3344
+311        Houston Baptist                 0-2-0    26.3114
+312        Texas-San Antonio               4-2-0    26.242
+313        Michigan Tech                   0-1-0    26.2166
+314        Saginaw Valley St               0-1-0    26.2166
+315        Memphis                         1-4-0    26.0881
+316        Sam Houston St                  0-5-0    26.079
+317        New Mexico                      2-4-0    26.0723
+318        South Alabama                   2-4-0    25.9296
+319        Texas St-San Marcos             0-1-0    25.8326
+320        Northern Iowa                   3-2-0    25.8122
+321        Duquesne                        0-1-0    25.764
+322        Wagner                          2-0-0    25.764
+323        Kentucky                        2-3-0    25.7191
+324        Wyoming                         1-3-0    25.6545
+325        Akron                           3-2-0    25.5696
+326        Northern St SD                  0-1-0    25.5188
+327        Eastern Kentucky                0-1-0    25.4796
+328        Eastern Illinois                6-1-0    25.4774
+329        Bucknell                        0-1-0    25.3424
+330        Elon                            0-1-0    25.1738
+331        Navy                            0-2-0    25.1193
+332        James Madison                   0-4-0    25.0799
+333        Western Illinois                1-4-0    24.9853
+334        Missouri St                     2-4-0    24.86
+335        Florida                         3-3-0    24.8472
+336        Austin Peay                     0-7-0    24.8343
+337        Georgia St                      0-7-0    24.7311
+338        Idaho St                        0-3-0    24.6871
+339        Idaho                           0-5-0    24.6639
+340        Toledo                          0-1-0    24.5791
+341        Tulsa                           2-2-0    24.5317
+342        Nebraska-Kearney                0-1-0    24.4995
+343        SE Missouri St                  1-5-0    24.4861
+344        Georgia Tech                    5-2-0    24.4723
+345        Adams St                        0-1-0    24.4356
+346        Buffalo                         3-4-0    24.4279
+347        Harvard                         4-1-0    24.3248
+348        Murray St                       1-4-0    24.1715
+349        Colgate                         0-2-0    24.0449
+350        East Carolina                   6-1-0    23.9638
+351        South Florida                   0-2-0    23.8861
+352        Albany NY                       0-5-0    23.8291
+353        Delaware St                     0-1-0    23.7587
+354        Tennessee St                    0-1-0    23.7587
+355        Howard                          0-1-0    23.7587
+356        Troy                            2-4-0    23.7296
+357        Southern Illinois               3-4-0    23.5934
+358        Lewis & Clark                   0-1-0    23.5881
+359        Pacific Lutheran                0-1-0    23.5881
+360        Puget Sound                     0-1-0    23.5881
+361        Delaware                        2-2-0    23.5781
+362        Bemidji St                      0-1-0    23.4975
+363        Furman                          4-3-0    23.4906
+364        UNLV                            4-3-0    23.4897
+365        Stony Brook                     0-1-0    23.4859
+366        Western Illinois                0-1-0    23.4597
+367        Mississippi St                  6-1-0    23.4356
+368        Eastern Illinois                6-1-0    23.4271
+369        Columbia                        0-4-0    23.4247
+370        Syracuse                        4-2-0    23.3751
+371        Rhode Island                    1-4-0    23.2815
+372        Miami FL                        6-1-0    23.2803
+373        Duke                            5-3-0    23.2364
+374        Eastern Michigan                2-2-0    23.1537
+375        North Carolina Central          0-2-0    23.1213
+376        Carson-Newman                   0-1-0    23.0256
+377        Brevard                         0-1-0    23.0256
+378        Gardner-Webb                    0-1-0    22.9349
+379        South Dakota St                 4-1-0    22.9161
+380        Massachusetts                   1-4-0    22.9097
+381        Lincoln PA                      0-2-0    22.9019
+382        Florida Atlantic                3-3-0    22.8441
+383        UTEP                            1-2-0    22.836
+384        New Hampshire                   4-4-0    22.8192
+385        Columbia                        0-3-0    22.7885
+386        Army                            2-3-0    22.7659
+387        Bowling Green                   6-2-0    22.7635
+388        Idaho                           1-4-0    22.7438
+389        New Hampshire                   0-1-0    22.678
+390        James Madison                   0-1-0    22.678
+391        Miami OH                        0-4-0    22.6115
+392        Marshall                        4-4-0    22.5703
+393        Fresno St                       4-2-0    22.5353
+394        Memphis                         2-5-0    22.533
+395        Central Michigan                3-2-0    22.4101
+396        Austin Peay                     0-3-0    22.3746
+397        Mercyhurst                      0-1-0    22.3563
+398        SE Louisiana St                 4-2-0    22.2983
+399        SE Missouri St                  0-1-0    22.2737
+400        Southern Utah                   5-3-0    22.2006
+401        Louisville                      6-1-0    22.1581
+402        South Dakota                    1-4-0    22.1452
+403        Livingstone                     0-1-0    22.0464
+404        Coastal Carolina                5-3-0    22.0363
+405        Austin Peay                     0-1-0    21.9311
+406        Northern Illinois               7-2-0    21.9117
+407        Stephen F. Austin               0-7-0    21.7869
+408        North Dakota St                 5-0-0    21.7754
+409        American Int'l                  0-1-0    21.7362
+410        Rice                            4-3-0    21.7277
+411        Ball St                         4-2-0    21.5958
+412        Lafayette                       0-1-0    21.5651
+413        North Texas                     6-1-0    21.5451
+414        Utah St                         5-2-0    21.5011
+415        Western Carolina                0-5-0    21.481
+416        Cornell                         0-1-0    21.4756
+417        Cal Poly SLO                    3-3-0    21.4747
+418        Kent St                         2-3-0    21.4661
+419        Clarion                         0-3-0    21.3886
+420        New Mexico St                   2-5-0    21.2103
+421        VMI                             0-3-0    21.1588
+422        Eastern Washington              7-1-0    21.1238
+423        Army                            1-5-0    21.0918
+424        Idaho St                        0-3-0    21.0599
+425        Louisiana-Lafayette             5-2-0    20.9802
+426        Towson                          4-2-0    20.9092
+427        Tulane                          0-1-0    20.8968
+428        Western Michigan                0-4-0    20.7024
+429        Eastern Washington              5-2-0    20.6864
+430        Old Dominion                    2-4-0    20.5607
+431        Towson                          9-0-0    20.5531
+432        Concordia-St Paul               0-3-0    20.5276
+433        Maine                           5-1-0    20.5157
+434        Alabama A&M                     0-3-0    20.4937
+435        Indiana St                      0-5-0    20.4373
+436        Maryland                        4-3-0    20.43
+437        Tennessee Tech                  2-3-0    20.3319
+438        Presbyterian                    0-4-0    20.2622
+439        Tulane                          5-2-0    20.2149
+440        Nevada                          4-2-0    20.1563
+441        Pennsylvania                    0-2-0    20.042
+442        Rice                            6-0-0    20.0359
+443        Pennsylvania                    3-2-0    19.9595
+444        Houston                         5-2-0    19.9162
+445        Cincinnati                      5-1-0    19.8649
+446        Louisville                      6-0-0    19.8151
+447        Texas St-San Marcos             4-1-0    19.8012
+448        Richmond                        4-2-0    19.7604
+449        UC-Davis                        0-2-0    19.672
+450        Langston                        0-2-0    19.66
+451        Dartmouth                       2-2-0    19.6045
+452        St Cloud St                     0-1-0    19.564
+453        Sioux Falls                     0-1-0    19.564
+454        Southern Illinois               4-1-0    19.5266
+455        Ball St                         6-1-0    19.4774
+456        Stony Brook                     2-3-0    19.4348
+457        Northern Colorado               0-2-0    19.3927
+458        Central Arkansas                3-3-0    19.3232
+459        Tulane                          2-3-0    19.3109
+460        Case Western Reserve            0-1-0    19.2992
+461        Massachusetts                   0-1-0    19.2594
+462        Tennessee St                    0-1-0    19.0389
+463        NW Oklahoma St                  0-1-0    19.0281
+464        SE Missouri St                  0-2-0    19.0271
+465        Susquehanna                     0-1-0    19.0207
+466        Georgia St                      0-3-0    18.9602
+467        McNeese St                      0-1-0    18.9086
+468        Navy                            6-0-0    18.8402
+469        Incarnate Word                  0-3-0    18.8367
+470        Western Kentucky                4-2-0    18.7885
+471        Lincoln MO                      0-1-0    18.5069
+472        Fort Valley St                  0-1-0    18.5069
+473        Portland St                     2-3-0    18.4152
+474        Louisiana-Lafayette             4-1-0    18.318
+475        William & Mary                  2-4-0    18.297
+476        Western New Mexico              0-1-0    18.2475
+477        St Francis IN                   0-1-0    18.1856
+478        Morningside                     0-1-0    18.1856
+479        Bucknell                        0-1-0    18.1823
+480        Merchant Marine                 0-1-0    18.1199
+481        Middle Tennessee St             3-2-0    18.1062
+482        Alabama-Birmingham              1-4-0    18.0322
+483        Middle Tennessee St             5-1-0    18.0109
+484        Richmond                        2-4-0    17.9638
+485        Wagner                          0-3-0    17.9388
+486        UW-Stevens Point                0-1-0    17.9253
+487        NW Missouri St                  10-0-0    17.8324
+488        Tennessee St                    5-1-0    17.8279
+489        Central Oklahoma                1-4-0    17.7915
+490        Grand Valley St                 3-3-0    17.6483
+491        Troy                            4-1-0    17.6337
+492        South Dakota                    3-3-0    17.5573
+493        Benedict                        0-1-0    17.4553
+494        Savannah St                     0-1-0    17.4553
+495        North Carolina Central          0-1-0    17.4553
+496        Chowan                          0-1-0    17.4127
+497        Saginaw Valley St               4-2-0    17.3829
+498        Midland U.                      0-1-0    17.3799
+499        Youngstown St                   3-2-0    17.3596
+500        Northwestern St                 1-4-0    17.3524
+501        Indiana St                      1-3-0    17.2536
+502        Temple                          1-4-0    17.2347
+503        Georgetown DC                   0-2-0    17.2285
+504        UC-Davis                        2-3-0    17.0957
+505        Cornell                         1-3-0    17.0004
+506        Northern Colorado               1-5-0    16.9643
+507        Cincinnati                      4-3-0    16.9339
+508        Cornell                         2-3-0    16.8318
+509        Jacksonville St                 6-2-0    16.8302
+510        Lehigh                          4-1-0    16.769
+511        North Dakota St                 10-0-0    16.7555
+512        Louisiana Tech                  2-4-0    16.7162
+513        South Dakota St                 5-3-0    16.608
+514        Jacksonville St                 5-2-0    16.5155
+515        Incarnate Word                  1-1-0    16.5029
+516        Northeastern St OK              0-2-0    16.4963
+517        Fordham                         7-0-0    16.4962
+518        Buena Vista                     0-1-0    16.4321
+519        Marshall                        6-0-0    16.4282
+520        Stony Brook                     3-2-0    16.3983
+521        Northeastern St OK              2-3-0    16.3751
+522        Norfolk St                      0-3-0    16.2603
+523        Northern Michigan               0-4-0    16.2463
+524        Hamline                         0-3-0    16.206
+525        Samford                         4-1-0    16.0692
+526        Princeton                       4-1-0    16.0345
+527        Rutgers                         5-3-0    16.0184
+528        Colorado St                     3-2-0    15.9823
+529        Edinboro                        0-2-0    15.8577
+530        Ashland                         0-1-0    15.8197
+531        West Texas A&M                  5-1-0    15.7702
+532        Murray St                       5-1-0    15.7609
+533        Hampton                         0-3-0    15.7528
+534        Albany NY                       1-5-0    15.7516
+535        North Texas                     3-3-0    15.596
+536        Tarleton St                     4-1-0    15.5617
+537        Columbia                        0-1-0    15.5576
+538        Dickinson                       0-2-0    15.5253
+539        Virginia U-Lynchburg            0-3-0    15.4806
+540        Bethel TN                       0-1-0    15.4781
+541        Florida St                      7-0-0    15.4557
+542        Nicholls St                     1-4-0    15.4092
+543        Ohio U.                         2-1-0    15.3918
+544        Ohio Dominican                  4-1-0    15.3487
+545        Holy Cross                      3-3-0    15.3434
+546        Lafayette                       2-2-0    15.2837
+547        Elon                            1-4-0    15.2443
+548        Walsh                           0-1-0    15.2303
+549        Florida Atlantic                3-2-0    15.1163
+550        Missouri St                     3-3-0    15.0989
+551        Guilford                        0-1-0    15.0765
+552        Coast Guard                     0-1-0    15.0765
+553        Northeastern St OK              0-1-0    15.0665
+554        Seton Hill                      0-3-0    15.0661
+555        San Diego St                    4-1-0    15.0541
+556        Boise St                        6-0-0    15.0102
+557        New Hampshire                   6-0-0    14.9296
+558        Miami OH                        0-2-0    14.8911
+559        Holy Cross                      0-5-0    14.881
+560        TAMU-Commerce                   0-1-0    14.8595
+561        Robert Morris PA                0-3-0    14.8413
+562        Central Michigan                3-3-0    14.8402
+563        St Olaf                         0-1-0    14.748
+564        Wisconsin                       6-1-0    14.6329
+565        Point U.                        0-2-0    14.6151
+566        Lafayette                       3-3-0    14.5644
+567        Louisiana Tech                  2-4-0    14.5332
+568        Pennsylvania                    1-2-0    14.485
+569        Fort Lewis                      0-2-0    14.4
+570        Marian IN                       0-2-0    14.3853
+571        Gardner-Webb                    1-3-0    14.3577
+572        North Park                      0-2-0    14.3302
+573        Colgate                         0-4-0    14.2749
+574        Michigan St                     7-0-0    14.2244
+575        Hillsdale                       2-3-0    14.2049
+576        Endicott                        0-1-0    14.1968
+577        Cortland St                     0-1-0    14.1968
+578        Wyoming                         4-2-0    14.1079
+579        Yale                            2-3-0    14.0033
+580        Lake Erie                       0-5-0    14.0005
+581        Central Arkansas                4-2-0    13.9863
+582        James Madison                   6-1-0    13.9701
+583        Western Carolina                2-3-0    13.9611
+584        Central Oklahoma                1-4-0    13.9467
+585        North Carolina Central          2-3-0    13.9309
+586        Sacramento St                   0-1-0    13.8708
+587        Southern Utah                   0-1-0    13.8708
+588        Maine                           5-1-0    13.8598
+589        The Citadel                     2-3-0    13.6948
+590        Wofford                         2-2-0    13.6588
+591        Bacone                          0-1-0    13.6158
+592        UTEP                            1-4-0    13.6009
+593        Dartmouth                       4-2-0    13.577
+594        North Dakota                    2-4-0    13.564
+595        Montana                         5-2-0    13.5379
+596        Illinois St                     5-0-0    13.5093
+597        Montana St                      3-3-0    13.4353
+598        Georgetown DC                   1-5-0    13.4186
+599        Shorter                         0-1-0    13.4183
+600        Youngstown St                   5-2-0    13.394
+601        NW Missouri St                  5-0-0    13.3581
+602        Liberty                         2-3-0    13.3335
+603        Nicholls St                     3-2-0    13.3115
+604        Central Conn St                 2-4-0    13.3079
+605        Gannon                          0-1-0    13.2681
+606        Western Kentucky                4-2-0    13.2312
+607        St Francis PA                   1-4-0    13.1865
+608        South Carolina St               0-1-0    13.1463
+609        Morgan St                       0-1-0    12.9293
+610        Franklin                        0-1-0    12.9038
+611        Texas St-San Marcos             2-3-0    12.825
+612        Eastern New Mexico              4-1-0    12.6575
+613        Black Hills St                  1-4-0    12.53
+614        Louisiana-Monroe                2-3-0    12.5013
+615        Colorado Mesa                   0-3-0    12.4908
+616        Ohio U.                         5-2-0    12.4323
+617        Tennessee St                    5-1-0    12.4159
+618        Seton Hill                      0-2-0    12.3921
+619        West Texas A&M                  6-2-0    12.2997
+620        Tennessee Tech                  3-3-0    12.2871
+621        McNeese St                      5-0-0    12.2645
+622        Geneva                          0-1-0    12.2166
+623        Bucknell                        3-1-0    12.2102
+624        Georgia Southern                5-1-0    12.1169
+625        Tennessee-Martin                0-1-0    12.0744
+626        Buffalo                         5-0-0    12.0417
+627        North Dakota                    1-3-0    12.03
+628        Sacramento St                   2-3-0    12.0272
+629        Villanova                       4-1-0    11.8873
+630        Cal Poly SLO                    3-3-0    11.8864
+631        Southern Miss                   0-4-0    11.8043
+632        Missouri Western                3-3-0    11.7897
+633        Tusculum                        0-1-0    11.7079
+634        SW Baptist                      0-2-0    11.6887
+635        UW-Eau Claire                   0-2-0    11.6297
+636        Charleston Southern             4-1-0    11.5435
+637        The Citadel                     3-3-0    11.5293
+638        St Olaf                         0-1-0    11.5106
+639        Western Illinois                3-3-0    11.4191
+640        Cheyney                         0-2-0    11.4136
+641        UW-River Falls                  0-2-0    11.3659
+642        VMI                             0-3-0    11.3651
+643        NW Oklahoma St                  0-2-0    11.3518
+644        Concordia AL                    0-3-0    11.3213
+645        Albany NY                       0-1-0    11.2333
+646        Northern Iowa                   4-2-0    11.1767
+647        Chattanooga                     3-2-0    11.1724
+648        Fordham                         5-2-0    11.132
+649        Appalachian St                  2-4-0    11.1162
+650        Abilene Christian               2-5-0    11.0922
+651        Samford                         4-4-0    11.0512
+652        Angelo St                       2-1-0    10.9741
+653        Angelo St                       2-4-0    10.876
+654        Hampton                         1-3-0    10.8711
+655        Sacred Heart                    5-1-0    10.8655
+656        Millersville                    0-4-0    10.8602
+657        Wilmington                      0-2-0    10.7656
+658        Marietta                        0-2-0    10.7656
+659        Columbia                        0-2-0    10.6509
+660        Wilmington                      0-1-0    10.6497
+661        Brown                           3-2-0    10.5997
+662        Colgate                         4-2-0    10.5786
+663        Portland St                     0-1-0    10.5525
+664        Weber St                        2-2-0    10.5019
+665        Ashland                         0-1-0    10.4883
+666        Slippery Rock                   5-0-0    10.4755
+667        Carleton                        0-1-0    10.3557
+668        Furman                          4-1-0    10.2179
+669        Tennessee-Martin                5-1-0    10.2115
+670        Northern Arizona                4-0-0    10.1977
+671        Central Missouri                3-2-0    10.1902
+672        Hastings                        0-1-0    10.1863
+673        Bucknell                        3-2-0    10.0887
+674        Georgia Southern                2-3-0    10.0762
+675        Brown                           3-2-0    10.0618
+676        Glenville St                    0-1-0    9.9631
+677        Kentucky St                     0-1-0    9.9532
+678        Western St CO                   2-2-0    9.9005
+679        Bemidji St                      1-3-0    9.8928
+680        Bowling Green                   4-2-0    9.8145
+681        Montana St                      4-2-0    9.7774
+682        Sacred Heart                    5-2-0    9.741
+683        Princeton                       4-1-0    9.6423
+684        Hampton                         3-2-0    9.6318
+685        Malone                          1-4-0    9.6082
+686        Stephen F. Austin               3-2-0    9.606
+687        Central Conn St                 2-3-0    9.4642
+688        Yale                            3-1-0    9.4091
+689        Northwood                       1-4-0    9.3769
+690        Chattanooga                     5-1-0    9.3659
+691        Lenoir-Rhyne                    8-2-0    9.3271
+692        Juniata                         0-1-0    9.3189
+693        Northwestern St                 5-1-0    9.2831
+694        Sam Houston St                  9-0-0    9.2526
+695        Cumberland TN                   0-1-0    9.019
+696        Central Conn St                 0-1-0    8.9376
+697        Wofford                         3-2-0    8.8214
+698        Menlo                           0-3-0    8.7902
+699        Wagner                          1-4-0    8.7127
+700        Northern Arizona                5-0-0    8.6804
+701        Cheyney                         0-2-0    8.6191
+702        Redlands                        0-1-0    8.5217
+703        Howard Payne                    0-1-0    8.5217
+704        Wesley                          0-1-0    8.5217
+705        UW-River Falls                  0-3-0    8.4704
+706        Lehigh                          4-2-0    8.4449
+707        Quincy                          0-4-0    8.4382
+708        Pikeville                       0-1-0    8.4162
+709        Lindenwood                      1-2-0    8.3401
+710        Western New Mexico              3-1-0    8.3253
+711        Virginia Union                  1-3-0    8.2893
+712        William Penn                    0-1-0    8.2312
+713        Rhode Island                    2-1-0    8.2057
+714        Bryant                          3-4-0    8.174
+715        Montana                         5-1-0    8.1398
+716        SW Baptist                      1-4-0    8.126
+717        Mary                            3-3-0    8.0859
+718        TAMU-Kingsville                 1-3-0    8.072
+719        St Francis PA                   4-1-0    8.0412
+720        Lake Forest                     0-1-0    8.0273
+721        Ohio Northern                   0-2-0    7.9671
+722        Pittsburg St                    5-1-0    7.9666
+723        Mars Hill                       2-3-0    7.9462
+724        Adrian                          0-1-0    7.9405
+725        Baldwin Wallace                 0-1-0    7.9374
+726        St Norbert                      0-1-0    7.9374
+727        Bryant                          2-2-0    7.9304
+728        SE Missouri St                  2-1-0    7.9256
+729        Kentucky Wesleyan               0-3-0    7.9158
+730        Hardin-Simmons                  0-1-0    7.9092
+731        Wingate                         2-3-0    7.8919
+732        California PA                   0-1-0    7.8239
+733        Morgan St                       2-5-0    7.7461
+734        Wayne St NE                     0-1-0    7.7195
+735        Miles                           0-2-0    7.7
+736        Union NY                        0-1-0    7.5498
+737        Wagner                          0-1-0    7.4221
+738        Old Dominion                    6-0-0    7.4031
+739        Ave Maria                       0-1-0    7.3895
+740        Cumberland TN                   0-1-0    7.3895
+741        Bridgewater VA                  0-1-0    7.3489
+742        Benedict                        0-1-0    7.3334
+743        Lamar                           1-3-0    7.2201
+744        Montana St-Northern             0-1-0    7.1971
+745        Montana Tech                    0-1-0    7.1971
+746        Wayne St MI                     3-2-0    7.1844
+747        Norfolk St                      2-1-0    7.1429
+748        Albion                          0-3-0    7.097
+749        Humboldt St                     0-2-0    7.0915
+750        Carleton                        2-3-0    7.0272
+751        Grove City                      0-2-0    6.9707
+752        Walsh                           1-3-0    6.8414
+753        Minnesota-Crookston             0-2-0    6.6853
+754        Minot St                        0-2-0    6.6793
+755        Northeastern St OK              0-3-0    6.6681
+756        Midwestern St                   3-2-0    6.603
+757        Missouri S&T                    0-3-0    6.5723
+758        West Georgia                    2-3-0    6.5694
+759        San Diego                       5-1-0    6.5621
+760        SW Minnesota St                 2-3-0    6.5221
+761        West Chester                    6-1-0    6.4806
+762        Northern Michigan               3-2-0    6.4172
+763        Ashland                         2-2-0    6.3788
+764        Jacksonville FL                 1-5-0    6.3466
+765        Coastal Carolina                7-0-0    6.3222
+766        Morgan St                       3-1-0    6.2044
+767        Valdosta St                     3-2-0    6.1568
+768        Chadron St                      4-1-0    6.143
+769        Kutztown                        2-3-0    6.0987
+770        Savannah St                     0-4-0    6.0946
+771        Fayetteville St                 3-3-0    6.0411
+772        Marietta                        0-1-0    6.0341
+773        Appalachian St                  2-2-0    5.941
+774        Delaware                        5-2-0    5.8978
+775        Gannon                          3-2-0    5.8946
+776        Findlay                         5-1-0    5.8731
+777        Loras                           0-3-0    5.871
+778        Emporia St                      4-1-0    5.7827
+779        UW-La Crosse                    0-1-0    5.7683
+780        Millersville                    0-2-0    5.749
+781        Moravian                        2-3-0    5.7358
+782        North Carolina A&T              2-3-0    5.7183
+783        Wayne St MI                     0-6-0    5.534
+784        SE Oklahoma St                  1-5-0    5.5139
+785        Sterling                        0-1-0    5.5014
+786        Wayne St NE                     0-6-0    5.496
+787        McKendree                       0-1-0    5.451
+788        McNeese St                      5-1-0    5.3407
+789        St Cloud St                     6-1-0    5.3246
+790        New Mexico Highlands            1-5-0    5.3209
+791        Minn St-Moorhead                2-3-0    5.3119
+792        Central Missouri                3-2-0    5.298
+793        Fort Hays St                    2-3-0    5.2794
+794        Bloomsburg                      5-0-0    5.2076
+795        Shaw                            3-3-0    5.192
+796        UW-Whitewater                   6-0-0    5.1374
+797        Buffalo St                      2-2-0    5.1278
+798        North Alabama                   5-2-0    5.1216
+799        Tusculum                        3-2-0    5.1145
+800        Elon                            1-4-0    5.001
+801        La Verne                        0-2-0    4.9925
+802        Arkansas St                     5-0-0    4.9824
+803        North Greenville                2-3-0    4.9771
+804        Monmouth NJ                     4-4-0    4.9456
+805        Tiffin                          0-5-0    4.8689
+806        MidAmerica Nazarene             0-1-0    4.8244
+807        Nebraska-Kearney                1-2-0    4.787
+808        West Liberty                    0-2-0    4.7771
+809        UNC-Pembroke                    5-1-0    4.7402
+810        VMI                             2-4-0    4.7103
+811        Duquesne                        2-3-0    4.6775
+812        Bethune-Cookman                 5-1-0    4.6573
+813        Chadron St                      0-1-0    4.6372
+814        South Dakota Tech               0-1-0    4.6372
+815        Shenandoah                      0-1-0    4.6239
+816        Fort Hays St                    4-2-0    4.6233
+817        Johns Hopkins                   5-1-0    4.6222
+818        Brevard                         0-5-0    4.5708
+819        Davidson                        0-4-0    4.5525
+820        Valparaiso                      0-5-0    4.5413
+821        Charleston WV                   0-1-0    4.5075
+822        Shippensburg                    0-1-0    4.5075
+823        Norfolk St                      0-2-0    4.4988
+824        Lincoln PA                      0-3-0    4.4748
+825        Missouri Western                5-0-0    4.4614
+826        Upper Iowa                      3-2-0    4.4102
+827        Catawba                         2-3-0    4.4057
+828        Shippensburg                    3-2-0    4.3579
+829        Virginia Union                  0-1-0    4.3383
+830        South Carolina St               5-2-0    4.2451
+831        Arkansas-Pine Bluff             1-5-0    4.2262
+832        Portland St                     4-2-0    4.2132
+833        Minnesota-Crookston             0-3-0    4.1495
+834        Tarleton St                     3-1-0    4.0883
+835        Grand Valley St                 9-0-0    4.0402
+836        Wesley                          3-2-0    4.0182
+837        Gardner-Webb                    5-0-0    3.971
+838        MacMurray                       0-1-0    3.9391
+839        Illinois Wesleyan               0-1-0    3.9391
+840        Florida Int'l                   1-2-0    3.8841
+841        Texas Southern                  0-3-0    3.8687
+842        Mary                            0-1-0    3.8088
+843        Eastern Kentucky                2-2-0    3.7231
+844        UNC-Charlotte                   2-2-0    3.7198
+845        Eastern Kentucky                4-1-0    3.6404
+846        SE Louisiana St                 7-1-0    3.6251
+847        SW Baptist                      0-4-0    3.5945
+848        McMurry                         2-3-0    3.5561
+849        Lamar                           4-2-0    3.5506
+850        William & Mary                  5-0-0    3.4794
+851        TAMU-Commerce                   4-1-0    3.4433
+852        Northwood                       0-1-0    3.4157
+853        St Norbert                      0-2-0    3.4144
+854        Bethel MN                       7-1-0    3.3495
+855        Central St OH                   1-3-0    3.3449
+856        Livingstone                     0-3-0    3.2941
+857        East Central OK                 2-3-0    3.259
+858        Butler                          4-2-0    3.1634
+859        Florida Tech                    1-5-0    3.1501
+860        Montana-Western                 0-1-0    3.1194
+861        Shorter                         0-4-0    3.0084
+862        Northern Colorado               0-3-0    2.9633
+863        Adams St                        0-1-0    2.9262
+864        Charleston Southern             6-2-0    2.8641
+865        Mercyhurst                      3-3-0    2.8567
+866        Western St CO                   0-5-0    2.7995
+867        Florida A&M                     2-3-0    2.763
+868        UNC-Pembroke                    4-1-0    2.5866
+869        UW-Stout                        2-2-0    2.5834
+870        Alabama St                      5-2-0    2.5681
+871        Colorado Mines                  3-2-0    2.5654
+872        Delta St                        4-0-0    2.5556
+873        Ferris St                       4-1-0    2.5072
+874        Waldorf                         0-4-0    2.4417
+875        St Xavier                       4-1-0    2.4327
+876        Georgetown DC                   1-2-0    2.3861
+877        Fairmont St                     0-2-0    2.3807
+878        Hillsdale                       3-3-0    2.3504
+879        Cal Lutheran                    0-1-0    2.3008
+880        Western St CO                   0-1-0    2.2684
+881        Savannah St                     1-3-0    2.2456
+882        Augustana SD                    0-1-0    2.2364
+883        Northern St SD                  0-1-0    2.2364
+884        LIU Post                        0-1-0    2.2236
+885        Jackson St                      3-2-0    2.1783
+886        Findlay                         3-2-0    2.1743
+887        St Olaf                         0-4-0    2.1681
+888        Montana Tech                    0-1-0    2.1659
+889        Southern Utah                   3-1-0    2.154
+890        Southern Nazarene               0-1-0    2.1487
+891        Assumption                      0-1-0    2.144
+892        UW-Eau Claire                   1-3-0    2.1192
+893        Stetson                         0-4-0    2.0965
+894        Tusculum                        0-4-0    2.0726
+895        Missouri Southern               3-1-0    2.0671
+896        East Stroudsburg                4-2-0    2.0235
+897        Buena Vista                     2-2-0    2.006
+898        Grambling St                    0-1-0    1.9795
+899        Stetson                         0-1-0    1.9605
+900        Mercer                          0-1-0    1.9605
+901        Valparaiso                      0-1-0    1.9605
+902        Washburn                        5-1-0    1.9417
+903        Drake                           1-4-0    1.9263
+904        Frostburg St                    0-3-0    1.9247
+905        Norfolk St                      1-3-0    1.8657
+906        Emporia St                      5-1-0    1.8518
+907        McDaniel                        0-1-0    1.7932
+908        SE Oklahoma St                  0-1-0    1.7253
+909        Ripon                           0-1-0    1.7242
+910        Florida Tech                    0-1-0    1.6855
+911        Coe                             0-1-0    1.6793
+912        Howard                          3-4-0    1.6577
+913        Texas Southern                  0-1-0    1.6389
+914        Northwood                       1-4-0    1.6095
+915        UW-Stout                        2-3-0    1.6055
+916        Arkansas-Monticello             0-5-0    1.6021
+917        Kentucky Christian              0-3-0    1.4718
+918        Becker                          0-3-0    1.3903
+919        Michigan Tech                   3-1-0    1.3672
+920        Florida A&M                     1-4-0    1.3656
+921        Minnesota-Duluth                6-1-0    1.3459
+922        Concordia MI                    0-5-0    1.3251
+923        Drake                           5-1-0    1.2086
+924        Millikin                        0-3-0    1.1117
+925        West Alabama                    1-3-0    1.0841
+926        Claremont-Mudd-Scripps          0-2-0    1.0776
+927        Washburn                        3-2-0    1.0651
+928        Lawrence                        0-1-0    1.0633
+929        Sterling                        0-1-0    1.0572
+930        Idaho St                        3-3-0    1.0365
+931        TAMU-Commerce                   3-3-0    1.0003
+932        Gannon                          3-2-0    0.9401
+933        Siena Heights                   1-4-0    0.9061
+934        Morehouse                       0-1-0    0.9053
+935        Capital                         0-2-0    0.8662
+936        St Anselm                       0-1-0    0.778
+937        Clarion                         0-2-0    0.7681
+938        Missouri Southern               4-1-0    0.699
+939        TAMU-Kingsville                 1-4-0    0.6919
+940        St Lawrence                     0-1-0    0.6638
+941        Prairie View A&M                2-4-0    0.6531
+942        Elizabeth City St               3-3-0    0.5889
+943        Augsburg                        1-4-0    0.5846
+944        UW-La Crosse                    2-3-0    0.5799
+945        Monmouth NJ                     2-2-0    0.5466
+946        Randolph-Macon                  3-2-0    0.5174
+947        Southern Nazarene               0-6-0    0.4928
+948        Concordia-Moorhead              4-1-0    0.462
+949        Fairmont St                     0-2-0    0.4617
+950        Campbellsville                  1-4-0    0.4324
+951        Hope                            0-1-0    0.4183
+952        Olivet Nazarene                 0-1-0    0.4119
+953        Ferris St                       4-2-0    0.3849
+954        North Carolina A&T              0-1-0    0.3816
+955        Harvard                         5-0-0    0.281
+956        Edinboro                        2-2-0    0.226
+957        Virginia-Wise                   0-3-0    0.1817
+958        Robert Morris PA                2-3-0    0.1688
+959        Gustavus Adolphus               4-1-0    0.1212
+960        Dickinson                       1-2-0    0.1138
+961        Buena Vista                     2-3-0    0.0854
+962        Lincoln MO                      3-3-0    0.003
+963        Truman St                       0-1-0    0.0
+964        Central Washington              1-0-0    0.0
+965        Bethany WV                      0-1-0    0.0
+966        St Joseph's IN                  1-0-0    0.0
+967        Concord                         1-0-0    0.0
+968        Charleston WV                   0-1-0    0.0
+969        Azusa Pacific                   0-1-0    0.0
+970        Westminster PA                  1-0-0    0.0
+971        UW-Eau Claire                   1-3-0    -0.0019
+972        Incarnate Word                  5-0-0    -0.0268
+973        Union KY                        1-4-0    -0.0367
+974        Missouri S&T                    4-1-0    -0.0371
+975        Southern U.                     4-2-0    -0.0677
+976        Bluefield                       0-2-0    -0.0685
+977        Texas Southern                  0-2-0    -0.0896
+978        Greenville                      0-1-0    -0.1077
+979        Virginia Union                  0-3-0    -0.1402
+980        Winston-Salem St                7-0-0    -0.1578
+981        Clark Atlanta                   0-3-0    -0.2174
+982        Baldwin Wallace                 0-2-0    -0.2811
+983        Grambling St                    0-2-0    -0.2925
+984        Ursinus                         0-1-0    -0.3282
+985        Averett                         1-2-0    -0.3969
+986        Shenandoah                      2-1-0    -0.3969
+987        Berry                           0-3-0    -0.4018
+988        Indiana PA                      5-1-0    -0.4119
+989        California PA                   3-2-0    -0.4408
+990        Chicago                         0-3-0    -0.459
+991        Chowan                          2-1-0    -0.614
+992        Guilford                        3-1-0    -0.6536
+993        Catawba                         0-1-0    -0.6627
+994        North Greenville                3-3-0    -0.7062
+995        Trine                           0-2-0    -0.717
+996        North Carolina Central          3-1-0    -0.7423
+997        Briar Cliff                     0-4-0    -0.7598
+998        Mississippi Valley St           1-3-0    -0.7907
+999        Union KY                        0-1-0    -0.8168
+1000        Delta St                        3-3-0    -0.8276
+1001        Shenandoah                      2-2-0    -0.8826
+1002        Western New Mexico              1-4-0    -0.8994
+1003        Bethel TN                       0-2-0    -0.9036
+1004        New Mexico Highlands            1-4-0    -0.9198
+1005        Taylor                          1-3-0    -0.9381
+1006        Carthage                        0-2-0    -0.9464
+1007        Walsh                           2-3-0    -1.0018
+1008        Grambling St                    0-5-0    -1.0181
+1009        Slippery Rock                   4-3-0    -1.0373
+1010        Sacramento St                   3-0-0    -1.0549
+1011        Ohio Dominican                  6-0-0    -1.0774
+1012        Grinnell                        0-3-0    -1.0958
+1013        Mississippi Valley St           0-2-0    -1.119
+1014        UW-Stout                        0-1-0    -1.1893
+1015        Alabama A&M                     2-1-0    -1.2011
+1016        Buffalo St                      0-1-0    -1.216
+1017        Grinnell                        0-2-0    -1.2392
+1018        Washington and Lee              1-4-0    -1.2924
+1019        Cumberlands KY                  8-1-0    -1.303
+1020        Missouri Valley                 0-2-0    -1.3076
+1021        Pittsburg St                    5-1-0    -1.328
+1022        Stillman                        0-2-0    -1.3423
+1023        UW-River Falls                  0-2-0    -1.3498
+1024        Otterbein                       0-2-0    -1.433
+1025        St John's MN                    3-1-0    -1.4894
+1026        Simon Fraser                    0-1-0    -1.5168
+1027        Colorado Mesa                   3-2-0    -1.532
+1028        St Francis IL                   2-3-0    -1.5776
+1029        Cheyney                         0-3-0    -1.6022
+1030        Tiffin                          2-3-0    -1.6258
+1031        Concord                         3-2-0    -1.6899
+1032        Lindenwood-Belleville           0-2-0    -1.6907
+1033        Liberty                         6-1-0    -1.7069
+1034        Chowan                          2-3-0    -1.7076
+1035        Southern Arkansas               4-1-0    -1.7189
+1036        Concordia MI                    0-4-0    -1.7522
+1037        Birmingham-Southern             2-2-0    -1.7709
+1038        Ashland                         3-1-0    -1.7736
+1039        Marian IN                       3-1-0    -1.7817
+1040        UW-La Crosse                    1-2-0    -1.7907
+1041        Rowan                           5-0-0    -1.8017
+1042        Southern Conn St                2-3-0    -1.8349
+1043        Mars Hill                       1-4-0    -1.8617
+1044        Webber Int'l                    1-3-0    -1.8834
+1045        Hartwick                        0-1-0    -1.9267
+1046        Utica                           0-1-0    -1.9267
+1047        Shaw                            3-1-0    -1.9334
+1048        Averett                         0-2-0    -1.9792
+1049        Fort Lewis                      0-1-0    -1.996
+1050        Rhodes                          0-1-0    -2.0021
+1051        Texas College                   0-4-0    -2.0337
+1052        North Central                   6-1-0    -2.0888
+1053        Duquesne                        5-0-0    -2.1047
+1054        Morehead St                     2-3-0    -2.1386
+1055        Washington and Lee              4-0-0    -2.2255
+1056        Wartburg                        4-1-0    -2.2394
+1057        Kutztown                        2-4-0    -2.2435
+1058        Wofford                         0-1-0    -2.2909
+1059        Miles                           3-0-0    -2.3312
+1060        Olivet Nazarene                 0-2-0    -2.3413
+1061        Culver-Stockton                 0-2-0    -2.4377
+1062        Minnesota-Duluth                5-1-0    -2.5012
+1063        Stetson                         0-1-0    -2.5228
+1064        Morehead St                     0-1-0    -2.5228
+1065        Frostburg St                    0-2-0    -2.5248
+1066        Gustavus Adolphus               2-3-0    -2.5376
+1067        Hastings                        0-4-0    -2.5826
+1068        Nebraska Wesleyan               0-1-0    -2.5846
+1069        Minn St-Mankato                 6-0-0    -2.5913
+1070        Linfield                        6-0-0    -2.6438
+1071        SW Oklahoma St                  3-3-0    -2.6503
+1072        Colorado St-Pueblo              5-1-0    -2.6511
+1073        Avila                           0-1-0    -2.6681
+1074        St Thomas                       4-1-0    -2.6696
+1075        Cortland St                     2-3-0    -2.681
+1076        Dordt                           0-1-0    -2.7614
+1077        Bloomsburg                      5-2-0    -2.8414
+1078        Morehead St                     1-5-0    -2.8624
+1079        Castleton St                    0-3-0    -2.889
+1080        West Georgia                    4-2-0    -2.9712
+1081        OK Panhandle St                 0-2-0    -2.9905
+1082        Clark Atlanta                   0-3-0    -3.0023
+1083        Graceland                       0-2-0    -3.0064
+1084        Mount Union                     10-1-0    -3.0216
+1085        Eastern New Mexico              3-2-0    -3.0444
+1086        Northwestern IA                 4-0-0    -3.0835
+1087        Black Hills St                  2-4-0    -3.0944
+1088        Clarion                         4-2-0    -3.1167
+1089        Stonehill                       4-2-0    -3.134
+1090        Carson-Newman                   5-1-0    -3.1524
+1091        Dickinson St                    0-2-0    -3.1527
+1092        Arkansas Tech                   2-3-0    -3.1675
+1093        Millersville                    0-4-0    -3.2266
+1094        UW-Oshkosh                      3-2-0    -3.2303
+1095        McMurry                         1-5-0    -3.2396
+1096        Lock Haven                      2-4-0    -3.2495
+1097        Southern U.                     5-2-0    -3.2506
+1098        Muskingum                       0-2-0    -3.2744
+1099        Alfred                          6-1-0    -3.3397
+1100        Central St OH                   0-1-0    -3.3472
+1101        Gettysburg                      2-3-0    -3.3565
+1102        Saginaw Valley St               5-0-0    -3.3605
+1103        Dayton                          3-2-0    -3.3889
+1104        Louisiana College               2-3-0    -3.4403
+1105        McDaniel                        1-4-0    -3.5338
+1106        Quincy                          0-1-0    -3.5343
+1107        Winston-Salem St                3-1-0    -3.5551
+1108        Defiance                        0-1-0    -3.5918
+1109        Manchester                      0-1-0    -3.5918
+1110        North Alabama                   5-1-0    -3.5925
+1111        Trinity Int'l                   1-4-0    -3.5932
+1112        Bryant                          0-1-0    -3.6326
+1113        Pace                            0-2-0    -3.6383
+1114        Alma                            0-1-0    -3.6993
+1115        Utica                           1-3-0    -3.7003
+1116        Waldorf                         0-3-0    -3.7357
+1117        Lewis & Clark                   0-3-0    -3.7803
+1118        Wayland Baptist                 0-2-0    -3.7845
+1119        Dickinson St                    0-3-0    -3.7959
+1120        Newberry                        3-3-0    -3.9308
+1121        Muskingum                       1-2-0    -3.9444
+1122        Loras                           0-2-0    -4.0188
+1123        Lindenwood                      2-2-0    -4.0201
+1124        Grand View                      7-0-0    -4.0701
+1125        Marietta                        0-4-0    -4.0786
+1126        Emory & Henry                   3-2-0    -4.0898
+1127        Midwestern St                   4-1-0    -4.0916
+1128        UNC-Charlotte                   3-3-0    -4.1359
+1129        UW-Platteville                  5-2-0    -4.1444
+1130        Siena Heights                   0-1-0    -4.1474
+1131        Kentucky Christian              1-2-0    -4.161
+1132        SW Minnesota St                 5-2-0    -4.166
+1133        St Ambrose                      2-4-0    -4.1985
+1134        McKendree                       1-4-0    -4.2212
+1135        Malone                          1-5-0    -4.2546
+1136        Muhlenberg                      3-2-0    -4.2826
+1137        Alcorn St                       4-1-0    -4.2838
+1138        Carroll WI                      0-1-0    -4.317
+1139        Arkansas-Pine Bluff             1-4-0    -4.3429
+1140        Northern Michigan               0-1-0    -4.3438
+1141        Walsh                           0-1-0    -4.3438
+1142        UW-River Falls                  0-3-0    -4.3505
+1143        Franklin & Marshall             2-3-0    -4.4083
+1144        UW-Stevens Point                2-2-0    -4.4311
+1145        Shepherd                        5-0-0    -4.4438
+1146        Dixie St                        0-1-0    -4.4764
+1147        Concordia-Moorhead              4-1-0    -4.51
+1148        Bethel MN                       5-0-0    -4.5386
+1149        Texas Southern                  2-3-0    -4.579
+1150        Henderson St                    6-1-0    -4.6231
+1151        Belhaven                        0-1-0    -4.6519
+1152        Newberry                        6-0-0    -4.6906
+1153        Delaware St                     2-1-0    -4.6929
+1154        Apprentice                      0-2-0    -4.6982
+1155        Lake Erie                       4-2-0    -4.7335
+1156        Alfred St                       0-4-0    -4.7593
+1157        Ithaca                          4-1-0    -4.8516
+1158        East Stroudsburg                3-2-0    -4.92
+1159        Faulkner                        4-1-0    -4.9205
+1160        Augsburg                        4-1-0    -4.9228
+1161        Pace                            0-4-0    -4.9263
+1162        Sul Ross St                     0-4-0    -4.9501
+1163        Presbyterian                    3-3-0    -4.9517
+1164        Assumption                      1-3-0    -4.987
+1165        Buffalo St                      0-1-0    -4.9971
+1166        Otterbein                       0-1-0    -4.9971
+1167        Hobart                          0-1-0    -4.9971
+1168        Worcester St                    0-1-0    -5.07
+1169        Lawrence                        0-2-0    -5.0801
+1170        Hamline                         1-2-0    -5.0904
+1171        Morehouse                       1-5-0    -5.1214
+1172        Truman St                       4-1-0    -5.125
+1173        California PA                   4-1-0    -5.1305
+1174        Seton Hill                      0-2-0    -5.1311
+1175        Catawba                         4-1-0    -5.1752
+1176        Grand View                      7-0-0    -5.1801
+1177        Indianapolis                    6-1-0    -5.196
+1178        Bentley                         0-1-0    -5.1997
+1179        Alabama A&M                     0-2-0    -5.2285
+1180        Valdosta St                     3-1-0    -5.2302
+1181        UC-Davis                        3-1-0    -5.2306
+1182        Marist                          4-2-0    -5.2486
+1183        Bethune-Cookman                 5-1-0    -5.2523
+1184        Albany St GA                    4-1-0    -5.2651
+1185        West Virginia St                0-3-0    -5.2669
+1186        Stillman                        3-2-0    -5.2737
+1187        Howard                          3-1-0    -5.2882
+1188        Reinhardt                       4-1-0    -5.2977
+1189        Valparaiso                      1-4-0    -5.2994
+1190        UW-Oshkosh                      5-0-0    -5.3079
+1191        South Carolina St               4-1-0    -5.3461
+1192        St Francis IN                   4-1-0    -5.3484
+1193        Alabama A&M                     2-2-0    -5.3719
+1194        Adams St                        3-1-0    -5.3958
+1195        William Jewell                  0-3-0    -5.4239
+1196        Bluefield                       0-1-0    -5.4573
+1197        Stillman                        2-1-0    -5.4662
+1198        Davidson                        0-2-0    -5.4866
+1199        St John's MN                    4-1-0    -5.4908
+1200        Hardin-Simmons                  2-2-0    -5.5159
+1201        Utica                           2-3-0    -5.523
+1202        Plymouth St                     0-2-0    -5.5671
+1203        Illinois Wesleyan               4-1-0    -5.5802
+1204        Charleston WV                   3-3-0    -5.6254
+1205        Urbana                          5-0-0    -5.6354
+1206        Robert Morris PA                3-0-0    -5.6612
+1207        West Virginia St                0-2-0    -5.6697
+1208        Edinboro                        2-2-0    -5.6926
+1209        Butler                          5-1-0    -5.6935
+1210        Minot St                        1-3-0    -5.724
+1211        UW-Platteville                  5-0-0    -5.7414
+1212        Campbell                        1-5-0    -5.7705
+1213        Oberlin                         0-1-0    -5.7839
+1214        North Carolina A&T              5-0-0    -5.841
+1215        Georgetown KY                   4-1-0    -5.8562
+1216        Davidson                        0-1-0    -5.8723
+1217        Hampden-Sydney                  5-1-0    -5.883
+1218        Bethel KS                       0-1-0    -5.8921
+1219        Concordia-St Paul               3-1-0    -5.8946
+1220        Otterbein                       1-1-0    -5.9226
+1221        Lane                            3-2-0    -5.9882
+1222        Nebraska Wesleyan               0-1-0    -6.0213
+1223        Lock Haven                      0-1-0    -6.0441
+1224        Alma                            0-4-0    -6.0482
+1225        St Francis IN                   5-1-0    -6.0496
+1226        Trinity TX                      0-2-0    -6.0887
+1227        Greensboro                      0-5-0    -6.1448
+1228        Ferrum                          0-1-0    -6.2232
+1229        Hamline                         0-2-0    -6.3062
+1230        Robert Morris IL                2-3-0    -6.3417
+1231        Jackson St                      4-1-0    -6.3596
+1232        Johnson C. Smith                1-2-0    -6.3621
+1233        Tuskegee                        5-2-0    -6.3626
+1234        Belhaven                        1-4-0    -6.3939
+1235        William Penn                    3-2-0    -6.4425
+1236        Dubuque                         2-3-0    -6.4444
+1237        Lock Haven                      1-3-0    -6.4691
+1238        Delaware St                     3-1-0    -6.4699
+1239        Concordia AL                    0-3-0    -6.4755
+1240        Virginia-Wise                   2-3-0    -6.5188
+1241        Webber Int'l                    0-1-0    -6.568
+1242        Johnson C. Smith                0-1-0    -6.5752
+1243        Sioux Falls                     3-2-0    -6.5931
+1244        Colorado St-Pueblo              6-0-0    -6.6658
+1245        Bentley                         5-2-0    -6.6713
+1246        Knox                            0-3-0    -6.6927
+1247        Midland U.                      0-2-0    -6.7243
+1248        Lincoln MO                      0-4-0    -6.7276
+1249        Thiel                           1-4-0    -6.7334
+1250        Dordt                           0-2-0    -6.7414
+1251        Fayetteville St                 3-1-0    -6.7632
+1252        Alfred                          0-1-0    -6.7743
+1253        Sul Ross St                     0-2-0    -6.7745
+1254        Westminster PA                  0-2-0    -6.8847
+1255        Juniata                         3-1-0    -6.9088
+1256        Wingate                         2-3-0    -7.0032
+1257        Dakota Wesleyan                 3-1-0    -7.0113
+1258        Fort Valley St                  2-3-0    -7.0538
+1259        Anna Maria                      0-3-0    -7.1048
+1260        Michigan Tech                   3-2-0    -7.1424
+1261        Willamette                      4-2-0    -7.147
+1262        Methodist                       4-1-0    -7.1528
+1263        Adams St                        4-1-0    -7.1879
+1264        Southwestern TX                 0-2-0    -7.1937
+1265        Carthage                        0-1-0    -7.2314
+1266        Concordia-St Paul               2-1-0    -7.2707
+1267        SW Oklahoma St                  3-2-0    -7.2902
+1268        Wisconsin Lutheran              0-1-0    -7.3586
+1269        Carson-Newman                   5-1-0    -7.3862
+1270        Campbellsville                  3-2-0    -7.3955
+1271        St Augustine's                  1-3-0    -7.4163
+1272        Dayton                          4-2-0    -7.476
+1273        Gardner-Webb                    1-1-0    -7.4786
+1274        Elizabeth City St               1-3-0    -7.5149
+1275        St Anselm                       0-5-0    -7.5275
+1276        St Augustine's                  3-2-0    -7.5737
+1277        Dakota St                       0-1-0    -7.582
+1278        West Liberty                    1-3-0    -7.632
+1279        Stevenson                       0-1-0    -7.6652
+1280        Frostburg St                    0-1-0    -7.6997
+1281        Franklin & Marshall             5-0-0    -7.703
+1282        Fort Lewis                      3-1-0    -7.712
+1283        Hampden-Sydney                  4-1-0    -7.7249
+1284        Harding                         5-1-0    -7.742
+1285        Olivet Nazarene                 2-2-0    -7.7717
+1286        Henderson St                    5-0-0    -7.7733
+1287        Hendrix                         0-4-0    -7.784
+1288        Linfield                        5-1-0    -7.8023
+1289        Humboldt St                     0-5-0    -7.8506
+1290        Shepherd                        1-1-0    -7.8601
+1291        Winona St                       2-4-0    -7.8677
+1292        Chadron St                      4-1-0    -7.8723
+1293        Morningside                     5-1-0    -7.8882
+1294        Beloit                          0-2-0    -8.0095
+1295        Nebraska-Kearney                2-3-0    -8.075
+1296        West Chester                    7-1-0    -8.0865
+1297        Becker                          0-1-0    -8.0948
+1298        Grinnell                        1-2-0    -8.1163
+1299        Shenandoah                      0-2-0    -8.1624
+1300        Shorter                         2-3-0    -8.173
+1301        Mercyhurst                      4-0-0    -8.2013
+1302        Miles                           3-2-0    -8.2189
+1303        Grambling St                    1-2-0    -8.2387
+1304        Warner U.                       1-3-0    -8.2408
+1305        St Thomas                       4-1-0    -8.2429
+1306        Ouachita Baptist                3-2-0    -8.2733
+1307        St John Fisher                  5-0-0    -8.2847
+1308        Albany St GA                    2-3-0    -8.3878
+1309        New Haven                       4-2-0    -8.3947
+1310        Campbell                        0-1-0    -8.404
+1311        Chowan                          0-1-0    -8.404
+1312        Lenoir-Rhyne                    5-0-0    -8.4123
+1313        William Penn                    2-3-0    -8.4141
+1314        Ferrum                          2-2-0    -8.4331
+1315        Shippensburg                    4-1-0    -8.4557
+1316        Hiram                           0-1-0    -8.4775
+1317        Kenyon                          0-1-0    -8.4775
+1318        DePauw                          0-1-0    -8.4775
+1319        Lycoming                        0-2-0    -8.4907
+1320        McPherson                       0-1-0    -8.5501
+1321        Prairie View A&M                4-1-0    -8.5724
+1322        Campbell                        2-3-0    -8.6093
+1323        Salisbury                       3-2-0    -8.6146
+1324        Baldwin Wallace                 3-1-0    -8.6198
+1325        Merrimack                       3-3-0    -8.653
+1326        Defiance                        0-1-0    -8.6623
+1327        Urbana                          2-4-0    -8.6644
+1328        Occidental                      3-2-0    -8.6654
+1329        NW Oklahoma St                  1-3-0    -8.6781
+1330        Anderson                        0-3-0    -8.6968
+1331        Kentucky Christian              0-2-0    -8.763
+1332        Sewanee                         2-3-0    -8.7723
+1333        Lane                            3-2-0    -8.7745
+1334        Loras                           0-4-0    -8.7885
+1335        RPI                             2-3-0    -8.8662
+1336        Glenville St                    4-1-0    -8.8904
+1337        Monmouth IL                     1-3-0    -8.9044
+1338        Western Oregon                  3-2-0    -8.9183
+1339        Central IA                      4-1-0    -8.9192
+1340        Union NY                        0-1-0    -8.9384
+1341        Georgetown KY                   3-3-0    -9.0056
+1342        OK Panhandle St                 2-2-0    -9.0136
+1343        Benedict                        1-3-0    -9.0739
+1344        Jamestown                       0-1-0    -9.1931
+1345        Arkansas Tech                   3-2-0    -9.2528
+1346        Emory & Henry                   2-3-0    -9.2774
+1347        St Xavier                       3-3-0    -9.2855
+1348        American Int'l                  5-1-0    -9.2949
+1349        New Haven                       4-1-0    -9.3077
+1350        Robert Morris IL                5-1-0    -9.32
+1351        Johns Hopkins                   5-0-0    -9.3506
+1352        Susquehanna                     0-5-0    -9.3881
+1353        Wesley                          7-0-0    -9.4553
+1354        Ursinus                         4-1-0    -9.4708
+1355        Pacific Lutheran                4-1-0    -9.4745
+1356        WV Wesleyan                     1-3-0    -9.5069
+1357        Knox                            0-2-0    -9.554
+1358        West Alabama                    7-0-0    -9.5589
+1359        Marian IN                       3-2-0    -9.5602
+1360        Berry                           0-4-0    -9.578
+1361        Kentucky Wesleyan               0-1-0    -9.6341
+1362        Morrisville St                  2-3-0    -9.6349
+1363        LaGrange                        2-3-0    -9.7078
+1364        Langston                        3-2-0    -9.7373
+1365        Beloit                          0-5-0    -9.7738
+1366        Plymouth St                     0-1-0    -9.7868
+1367        Virginia St                     5-0-0    -9.7887
+1368        Bowie St                        2-3-0    -9.8716
+1369        Coe                             4-0-0    -9.9193
+1370        Austin                          1-3-0    -9.9262
+1371        Kentucky Wesleyan               0-5-0    -9.9545
+1372        Frostburg St                    1-3-0    -9.9577
+1373        Hendrix                         0-1-0    -9.9615
+1374        Indiana PA                      4-1-0    -9.9747
+1375        Bethany WV                      2-3-0    -10.0997
+1376        Alma                            0-1-0    -10.109
+1377        Central St OH                   1-3-0    -10.1164
+1378        Sioux Falls                     3-2-0    -10.1504
+1379        Dordt                           1-3-0    -10.1889
+1380        Elmhurst                        0-3-0    -10.2528
+1381        Carthage                        0-3-0    -10.3133
+1382        Reinhardt                       2-3-0    -10.3762
+1383        Mississippi College             0-1-0    -10.3793
+1384        Warner U.                       0-1-0    -10.5161
+1385        Concordia AL                    0-1-0    -10.5161
+1386        Jamestown                       2-3-0    -10.5238
+1387        Carnegie Mellon                 0-1-0    -10.5284
+1388        WV Wesleyan                     4-1-0    -10.5769
+1389        Oklahoma Baptist                0-2-0    -10.6208
+1390        Baker                           7-1-0    -10.6471
+1391        Houston Baptist                 2-2-0    -10.6604
+1392        Capital                         1-3-0    -10.7098
+1393        Notre Dame OH                   2-4-0    -10.7129
+1394        Puget Sound                     0-4-0    -10.7299
+1395        St Olaf                         1-3-0    -10.7546
+1396        Tabor                           5-2-0    -10.7574
+1397        American Int'l                  4-1-0    -10.775
+1398        Luther                          2-3-0    -10.782
+1399        St Joseph's IN                  5-2-0    -10.831
+1400        UW-Stevens Point                3-1-0    -10.8435
+1401        Lindsey Wilson                  4-1-0    -10.8779
+1402        WPI                             0-2-0    -10.9012
+1403        Kean                            0-2-0    -10.9053
+1404        Buffalo St                      3-1-0    -10.9492
+1405        Angelo St                       1-1-0    -11.0817
+1406        St Vincent                      0-2-0    -11.0889
+1407        Bluefield                       0-3-0    -11.1698
+1408        Kentucky St                     0-1-0    -11.1807
+1409        North Central                   7-0-0    -11.1876
+1410        Millikin                        0-5-0    -11.1943
+1411        Bridgewater VA                  2-2-0    -11.209
+1412        Marietta                        1-2-0    -11.2153
+1413        Rocky Mountain                  4-2-0    -11.2689
+1414        FDU-Florham                     0-1-0    -11.3074
+1415        St Mary KS                      2-3-0    -11.3562
+1416        Luther                          0-5-0    -11.3573
+1417        Averett                         0-2-0    -11.3609
+1418        Florida Tech                    4-1-0    -11.3666
+1419        Taylor                          4-2-0    -11.3793
+1420        South Dakota Tech               3-1-0    -11.432
+1421        Harding                         4-1-0    -11.4987
+1422        Bethany WV                      2-2-0    -11.5274
+1423        Simpson                         3-2-0    -11.5701
+1424        North Park                      1-3-0    -11.6053
+1425        Montclair St                    1-3-0    -11.6066
+1426        Alderson-Broaddus               2-3-0    -11.6605
+1427        Quincy                          1-3-0    -11.6775
+1428        Minn St-Mankato                 5-1-0    -11.6791
+1429        Wheaton                         4-1-0    -11.7121
+1430        Kentucky Wesleyan               0-2-0    -11.7137
+1431        Graceland                       0-2-0    -11.7272
+1432        Midland U.                      1-3-0    -11.8557
+1433        Colorado Mines                  5-1-0    -11.928
+1434        Centre                          5-0-0    -11.9622
+1435        Warner U.                       0-5-0    -11.9958
+1436        St Anselm                       1-4-0    -12.0027
+1437        St Augustine's                  0-1-0    -12.0047
+1438        Fort Lewis                      1-3-0    -12.0193
+1439        Marist                          4-1-0    -12.0381
+1440        Alabama St                      3-2-0    -12.0399
+1441        Seton Hill                      1-3-0    -12.0476
+1442        Bowie St                        0-1-0    -12.0649
+1443        Pomona-Pitzer                   1-2-0    -12.0859
+1444        Dubuque                         3-2-0    -12.0924
+1445        Central Methodist               2-4-0    -12.0977
+1446        Kean                            0-3-0    -12.1545
+1447        UW-Whitewater                   9-0-0    -12.1614
+1448        Kalamazoo                       3-2-0    -12.1618
+1449        Alma                            1-3-0    -12.1762
+1450        Southern Conn St                1-4-0    -12.1874
+1451        Kentucky St                     3-1-0    -12.2432
+1452        Bridgewater St MA               0-1-0    -12.2705
+1453        Simpson                         4-1-0    -12.2835
+1454        Albion                          3-0-0    -12.3276
+1455        Indianapolis                    4-1-0    -12.3504
+1456        Elmhurst                        3-1-0    -12.3799
+1457        Augustana SD                    0-4-0    -12.4729
+1458        Mississippi College             2-3-0    -12.4995
+1459        Berry                           0-2-0    -12.5949
+1460        Husson                          1-2-0    -12.6114
+1461        Grove City                      0-1-0    -12.6197
+1462        Washington U.                   2-2-0    -12.6299
+1463        Point U.                        1-2-0    -12.6437
+1464        Warner U.                       0-1-0    -12.659
+1465        FDU-Florham                     1-4-0    -12.6678
+1466        Redlands                        4-1-0    -12.7007
+1467        Nichols                         0-2-0    -12.7473
+1468        Mercer                          2-1-0    -12.7923
+1469        East Central OK                 3-2-0    -12.8013
+1470        Mississippi Valley St           1-4-0    -12.8115
+1471        Ouachita Baptist                4-1-0    -12.837
+1472        Union NY                        1-3-0    -12.8648
+1473        Concordia NE                    3-1-0    -12.9199
+1474        Case Western Reserve            3-0-0    -12.938
+1475        William Jewell                  0-3-0    -12.9683
+1476        Pacific OR                      3-2-0    -13.0813
+1477        Alderson-Broaddus               2-4-0    -13.0841
+1478        Olivet Nazarene                 1-3-0    -13.0852
+1479        Macalester                      0-1-0    -13.0867
+1480        Rochester                       3-1-0    -13.087
+1481        St Ambrose                      5-0-0    -13.1006
+1482        Brevard                         2-2-0    -13.1181
+1483        West Virginia St                0-3-0    -13.1499
+1484        Rhodes                          5-0-0    -13.1703
+1485        West Liberty                    1-2-0    -13.1709
+1486        West Virginia St                0-3-0    -13.1709
+1487        Pace                            0-5-0    -13.1713
+1488        Dixie St                        2-2-0    -13.3214
+1489        Castleton St                    0-2-0    -13.3877
+1490        Simon Fraser                    1-3-0    -13.4205
+1491        Albright                        5-1-0    -13.4239
+1492        Mars Hill                       0-1-0    -13.4696
+1493        Montana-Western                 0-1-0    -13.5025
+1494        Mary                            3-1-0    -13.5128
+1495        Capital                         0-1-0    -13.5158
+1496        Heidelberg                      0-1-0    -13.5158
+1497        Muskingum                       0-1-0    -13.5158
+1498        Carnegie Mellon                 0-1-0    -13.5215
+1499        Averett                         0-3-0    -13.5237
+1500        Bethel TN                       0-4-0    -13.6277
+1501        Monmouth IL                     4-2-0    -13.6686
+1502        Dickinson                       0-2-0    -13.6978
+1503        Southern Nazarene               0-4-0    -13.6997
+1504        Lincoln PA                      0-1-0    -13.7242
+1505        Juniata                         4-2-0    -13.763
+1506        Rowan                           1-1-0    -13.7838
+1507        WV Wesleyan                     0-1-0    -13.8004
+1508        Montclair St                    3-1-0    -13.8069
+1509        Cheyney                         0-4-0    -13.8152
+1510        Franklin & Marshall             0-1-0    -13.8886
+1511        Kean                            1-2-0    -13.9158
+1512        St Joseph's IN                  2-1-0    -13.9455
+1513        St Vincent                      0-3-0    -13.9623
+1514        Texas Lutheran                  3-0-0    -13.9696
+1515        Catholic                        3-2-0    -13.9776
+1516        South Dakota Tech               2-2-0    -14.0046
+1517        Trinity Int'l                   4-1-0    -14.018
+1518        Johnson C. Smith                4-2-0    -14.0262
+1519        Bowie St                        3-1-0    -14.0349
+1520        Eastern Oregon                  3-3-0    -14.0421
+1521        Arkansas Tech                   0-1-0    -14.0642
+1522        Union KY                        2-3-0    -14.1
+1523        Wartburg                        5-2-0    -14.2338
+1524        McDaniel                        0-1-0    -14.2376
+1525        Azusa Pacific                   4-0-0    -14.244
+1526        Western Oregon                  4-1-0    -14.3079
+1527        McKendree                       3-1-0    -14.3195
+1528        Carroll MT                      8-0-0    -14.3264
+1529        Davidson                        0-4-0    -14.3567
+1530        Dixie St                        2-4-0    -14.396
+1531        Alfred St                       0-2-0    -14.4384
+1532        Mary Hardin-Baylor              9-1-0    -14.4769
+1533        Moravian                        0-2-0    -14.4959
+1534        Briar Cliff                     2-3-0    -14.5454
+1535        Nebraska Wesleyan               1-2-0    -14.5466
+1536        Central IA                      2-3-0    -14.5596
+1537        Southern Conn St                0-1-0    -14.5884
+1538        Howard Payne                    1-3-0    -14.5966
+1539        Bethany KS                      0-5-0    -14.6127
+1540        Cumberland TN                   3-2-0    -14.6786
+1541        Abilene Christian               4-0-0    -14.7137
+1542        Catholic                        3-2-0    -14.72
+1543        Tuskegee                        3-1-0    -14.758
+1544        Gettysburg                      2-3-0    -14.7689
+1545        Maranatha Baptist               0-1-0    -14.7737
+1546        Concord                         4-1-0    -14.7834
+1547        Assumption                      5-1-0    -15.0483
+1548        Missouri Valley                 5-1-0    -15.0742
+1549        Concordia IL                    0-3-0    -15.1035
+1550        Washington U.                   1-1-0    -15.205
+1551        Virginia U-Lynchburg            1-2-0    -15.2571
+1552        Christopher Newport             4-1-0    -15.2721
+1553        Hobart                          5-0-0    -15.2815
+1554        Ursinus                         3-1-0    -15.2872
+1555        New Jersey                      1-1-0    -15.3034
+1556        Cornell IA                      0-1-0    -15.3254
+1557        Heidelberg                      4-0-0    -15.3865
+1558        Otterbein                       4-1-0    -15.4105
+1559        Norwich                         0-1-0    -15.4145
+1560        Hartwick                        4-1-0    -15.4568
+1561        Simon Fraser                    2-3-0    -15.459
+1562        Susquehanna                     1-3-0    -15.4736
+1563        Menlo                           2-1-0    -15.5692
+1564        Alfred                          2-1-0    -15.6345
+1565        Misericordia                    0-6-0    -15.661
+1566        Morehouse                       1-2-0    -15.722
+1567        Concordia-St Paul               0-1-0    -15.7822
+1568        Upper Iowa                      0-1-0    -15.7822
+1569        Concordia WI                    4-1-0    -15.8188
+1570        William Jewell                  3-2-0    -15.8226
+1571        Notre Dame OH                   3-2-0    -15.826
+1572        Millsaps                        4-1-0    -15.9267
+1573        Centre                          2-3-0    -15.9338
+1574        Fort Valley St                  2-2-0    -15.9741
+1575        Merrimack                       4-1-0    -16.0235
+1576        William Paterson                2-3-0    -16.035
+1577        Cal Lutheran                    2-3-0    -16.0362
+1578        Case Western Reserve            0-2-0    -16.047
+1579        Lindenwood                      0-1-0    -16.0764
+1580        Augustana SD                    0-1-0    -16.0994
+1581        Maine Maritime                  0-1-0    -16.1337
+1582        Washington and Lee              0-1-0    -16.1533
+1583        New Jersey                      1-2-0    -16.1563
+1584        Hope                            3-2-0    -16.1572
+1585        Sewanee                         2-3-0    -16.163
+1586        Bridgewater St MA               3-2-0    -16.2789
+1587        Jacksonville FL                 4-1-0    -16.2805
+1588        NW Oklahoma St                  1-3-0    -16.3357
+1589        Huntingdon AL                   4-1-0    -16.4091
+1590        Thomas More                     4-0-0    -16.4319
+1591        Montana-Western                 2-2-0    -16.4347
+1592        Augustana IL                    2-3-0    -16.4466
+1593        Carroll MT                      4-2-0    -16.4821
+1594        Lincoln PA                      1-3-0    -16.4909
+1595        Lewis & Clark                   1-4-0    -16.532
+1596        Southern Oregon                 3-2-0    -16.5426
+1597        Pacific Lutheran                4-0-0    -16.5627
+1598        Wilmington                      0-4-0    -16.6039
+1599        Austin                          0-1-0    -16.6145
+1600        LIU Post                        2-3-0    -16.7966
+1601        Mercer                          8-0-0    -16.8261
+1602        Ithaca                          5-1-0    -16.8396
+1603        Azusa Pacific                   6-1-0    -16.852
+1604        Incarnate Word                  0-1-0    -16.9802
+1605        Ottawa                          3-3-0    -16.9849
+1606        Southwestern KS                 0-1-0    -17.0246
+1607        Ferrum                          0-5-0    -17.026
+1608        Bentley                         1-2-0    -17.065
+1609        Montana St-Northern             2-3-0    -17.085
+1610        St Francis IL                   5-1-0    -17.0857
+1611        Virginia U-Lynchburg            1-3-0    -17.13
+1612        Edinboro                        1-0-0    -17.1305
+1613        LIU Post                        3-2-0    -17.179
+1614        Carthage                        1-3-0    -17.2908
+1615        Avila                           0-3-0    -17.3655
+1616        Edward Waters                   0-3-0    -17.4304
+1617        Randolph-Macon                  4-1-0    -17.5366
+1618        Springfield                     4-1-0    -17.5438
+1619        Delaware Valley                 3-3-0    -17.5931
+1620        Valley City St                  1-2-0    -17.5979
+1621        Salisbury                       4-2-0    -17.6948
+1622        Wilkes                          0-2-0    -17.7075
+1623        Coe                             3-2-0    -17.724
+1624        Truman St                       3-2-0    -17.7358
+1625        Northwestern IA                 4-2-0    -17.7673
+1626        Wash & Jeff                     4-0-0    -17.773
+1627        Rochester                       2-3-0    -17.7819
+1628        Montclair St                    0-2-0    -17.8161
+1629        Waynesburg                      3-3-0    -17.8878
+1630        Wilmington                      0-3-0    -17.9006
+1631        Humboldt St                     0-4-0    -17.9049
+1632        Colorado Mesa                   2-1-0    -17.9308
+1633        Bluffton                        3-2-0    -17.9498
+1634        Culver-Stockton                 0-5-0    -17.9677
+1635        Ave Maria                       3-0-0    -17.9869
+1636        UMass-Dartmouth                 3-2-0    -18.041
+1637        Maryville                       4-3-0    -18.0777
+1638        Widener                         2-3-0    -18.1386
+1639        Brockport St                    3-1-0    -18.1549
+1640        North Carolina Wesleyan         1-2-0    -18.1633
+1641        Southwestern TX                 0-2-0    -18.1796
+1642        Faulkner                        5-2-0    -18.2119
+1643        Stetson                         2-3-0    -18.2186
+1644        Kentucky St                     2-2-0    -18.2356
+1645        Lindsey Wilson                  4-2-0    -18.2515
+1646        Worcester St                    2-2-0    -18.2528
+1647        Cornell IA                      4-1-0    -18.2625
+1648        Carroll WI                      4-1-0    -18.3637
+1649        Macalester                      1-1-0    -18.3666
+1650        Framingham St                   5-2-0    -18.3858
+1651        Eastern Oregon                  3-1-0    -18.401
+1652        Hanover                         0-1-0    -18.4249
+1653        Hiram                           0-1-0    -18.4249
+1654        St Norbert                      5-0-0    -18.4743
+1655        Minnesota-Crookston             0-2-0    -18.481
+1656        Springfield                     0-1-0    -18.483
+1657        Montana St-Northern             2-2-0    -18.5243
+1658        Brockport St                    5-2-0    -18.5718
+1659        Lycoming                        2-1-0    -18.6173
+1660        Pomona-Pitzer                   0-2-0    -18.679
+1661        Elmhurst                        1-2-0    -18.6955
+1662        Millsaps                        5-0-0    -18.6995
+1663        Morningside                     6-0-0    -18.7123
+1664        WPI                             0-3-0    -18.8241
+1665        Southern Arkansas               2-3-0    -18.8285
+1666        East Texas Baptist              0-4-0    -18.856
+1667        Cortland St                     4-1-0    -18.893
+1668        Minot St                        1-4-0    -18.9238
+1669        Methodist                       4-1-0    -18.9646
+1670        Southwestern TX                 0-3-0    -18.9826
+1671        King's PA                       3-2-0    -19.0277
+1672        WPI                             3-2-0    -19.0847
+1673        Heidelberg                      4-1-0    -19.1713
+1674        Minn St-Moorhead                2-4-0    -19.1956
+1675        Stonehill                       4-1-0    -19.1982
+1676        Augustana IL                    3-2-0    -19.2704
+1677        Bemidji St                      2-2-0    -19.3633
+1678        Sterling                        4-0-0    -19.3855
+1679        Apprentice                      0-3-0    -19.4582
+1680        Winston-Salem St                0-1-0    -19.4615
+1681        La Verne                        0-1-0    -19.4866
+1682        Gallaudet                       5-0-0    -19.4967
+1683        Benedictine KS                  5-1-0    -19.5079
+1684        Siena Heights                   4-0-0    -19.5167
+1685        San Diego                       3-2-0    -19.5243
+1686        Winona St                       4-1-0    -19.5328
+1687        Pikeville                       3-3-0    -19.5567
+1688        West Liberty                    1-1-0    -19.5834
+1689        Minnesota-Crookston             2-2-0    -19.6029
+1690        Whitworth                       2-4-0    -19.6124
+1691        William Paterson                0-2-0    -19.6755
+1692        Benedict                        3-1-0    -19.6987
+1693        Pacific OR                      4-1-0    -19.7007
+1694        Lycoming                        5-0-0    -19.7206
+1695        St John Fisher                  5-3-0    -19.7235
+1696        Trine                           2-1-0    -19.7568
+1697        Geneva                          0-4-0    -19.7774
+1698        Baker                           4-1-0    -19.8088
+1699        Martin Luther                   0-1-0    -19.8293
+1700        Westminster MO                  0-1-0    -19.8293
+1701        Illinois College                4-0-0    -19.8713
+1702        Southern Oregon                 3-3-0    -19.8727
+1703        Shepherd                        5-0-0    -19.891
+1704        Virginia St                     4-1-0    -19.9792
+1705        Bethany KS                      0-1-0    -19.9849
+1706        Southwestern KS                 0-1-0    -19.9849
+1707        Clark Atlanta                   1-1-0    -20.0009
+1708        MidAmerica Nazarene             2-3-0    -20.0298
+1709        Hampden-Sydney                  0-1-0    -20.0408
+1710        Central Washington              3-3-0    -20.0473
+1711        Glenville St                    2-3-0    -20.1063
+1712        FDU-Florham                     0-4-0    -20.1439
+1713        Livingstone                     3-3-0    -20.159
+1714        North Carolina Wesleyan         1-4-0    -20.1613
+1715        Aurora                          0-5-0    -20.2311
+1716        Charleston WV                   3-0-0    -20.2669
+1717        Rocky Mountain                  5-1-0    -20.285
+1718        Virginia-Wise                   0-3-0    -20.3298
+1719        Carleton                        3-1-0    -20.339
+1720        Rockford                        0-5-0    -20.4074
+1721        Lawrence                        0-4-0    -20.4907
+1722        Peru St                         4-1-0    -20.5462
+1723        Apprentice                      0-1-0    -20.5613
+1724        Misericordia                    1-2-0    -20.6117
+1725        Howard Payne                    3-2-0    -20.6228
+1726        Alcorn St                       5-1-0    -20.643
+1727        Puget Sound                     1-3-0    -20.6443
+1728        Bluefield                       0-5-0    -20.6713
+1729        St Scholastica                  4-1-0    -20.6993
+1730        Lebanon Valley                  3-3-0    -20.7127
+1731        Bridgewater VA                  2-3-0    -20.7955
+1732        Arkansas-Monticello             5-1-0    -20.7961
+1733        Chapman                         4-1-0    -20.7964
+1734        Minnesota-Morris                0-1-0    -20.8164
+1735        Lawrence                        1-2-0    -20.8673
+1736        La Verne                        1-2-0    -20.956
+1737        Husson                          0-2-0    -20.9767
+1738        Trinity TX                      2-1-0    -20.9974
+1739        Southwestern TX                 0-3-0    -21.0098
+1740        Lakeland                        0-1-0    -21.1893
+1741        Bemidji St                      0-2-0    -21.2232
+1742        McDaniel                        1-2-0    -21.2271
+1743        Sul Ross St                     1-3-0    -21.2394
+1744        Benedictine IL                  3-2-0    -21.328
+1745        Birmingham-Southern             3-2-0    -21.4292
+1746        Knox                            1-4-0    -21.4975
+1747        Dakota Wesleyan                 5-2-0    -21.5022
+1748        Widener                         4-1-0    -21.5663
+1749        Washington U.                   5-0-0    -21.6006
+1750        Northwestern IA                 0-1-0    -21.6118
+1751        Belhaven                        2-3-0    -21.6284
+1752        Southwestern KS                 1-3-0    -21.6427
+1753        Geneva                          5-0-0    -21.6738
+1754        SW Assem of God                 2-3-0    -21.7957
+1755        North Park                      2-2-0    -21.8387
+1756        Northern St SD                  2-3-0    -21.8627
+1757        Concordia NE                    0-1-0    -21.8775
+1758        Trinity Bible                   0-2-0    -21.9912
+1759        King's PA                       3-2-0    -21.9956
+1760        John Carroll                    5-1-0    -21.9974
+1761        Friends                         3-3-0    -22.0257
+1762        Ohio Northern                   3-0-0    -22.0312
+1763        East Texas Baptist              3-3-0    -22.0409
+1764        Kentucky Christian              2-1-0    -22.0588
+1765        Merchant Marine                 1-1-0    -22.072
+1766        Norwich                         3-2-0    -22.0947
+1767        Lindenwood-Belleville           3-2-0    -22.1549
+1768        Wilkes                          2-1-0    -22.1686
+1769        Dickinson St                    0-3-0    -22.1835
+1770        Whittier                        0-5-0    -22.2884
+1771        Point U.                        2-3-0    -22.2894
+1772        Evangel                         2-4-0    -22.3612
+1773        Wash & Jeff                     4-3-0    -22.3922
+1774        Kenyon                          0-2-0    -22.4372
+1775        Coast Guard                     0-4-0    -22.4673
+1776        Lake Forest                     5-0-0    -22.4735
+1777        Mount Ida                       0-2-0    -22.4848
+1778        Doane                           3-1-0    -22.5857
+1779        Morrisville St                  1-4-0    -22.5907
+1780        Whitworth                       2-2-0    -22.6111
+1781        Quincy                          1-1-0    -22.6135
+1782        Dickinson                       2-1-0    -22.6161
+1783        LaGrange                        3-2-0    -22.6246
+1784        Macalester                      2-2-0    -22.6251
+1785        Hartwick                        2-2-0    -22.6567
+1786        Gallaudet                       3-0-0    -22.7285
+1787        Guilford                        3-2-0    -22.7547
+1788        DePauw                          0-1-0    -22.7737
+1789        St Cloud St                     6-0-0    -22.8288
+1790        Kansas Wesleyan                 3-3-0    -22.8469
+1791        Salve Regina                    4-1-0    -22.8691
+1792        Virginia Union                  2-0-0    -22.8837
+1793        Southern Virginia               0-1-0    -22.9049
+1794        Westfield St                    0-1-0    -22.9738
+1795        Franklin                        5-1-0    -22.9903
+1796        Castleton St                    0-3-0    -23.0153
+1797        Ripon                           4-1-0    -23.0726
+1798        Albion                          5-0-0    -23.1076
+1799        OK Panhandle St                 2-3-0    -23.1378
+1800        Kalamazoo                       3-2-0    -23.2216
+1801        Louisiana College               5-0-0    -23.2505
+1802        St Lawrence                     2-2-0    -23.266
+1803        Haskell                         0-3-0    -23.2787
+1804        Concordia AL                    0-1-0    -23.3894
+1805        Carnegie Mellon                 1-4-0    -23.5189
+1806        Bethel KS                       0-5-0    -23.5751
+1807        Wittenberg                      4-2-0    -23.5789
+1808        Wayne St NE                     2-2-0    -23.7009
+1809        Adrian                          2-2-0    -23.7236
+1810        Anna Maria                      1-2-0    -23.7731
+1811        Chicago                         2-1-0    -23.7772
+1812        Adrian                          4-1-0    -23.8638
+1813        Lake Forest                     3-1-0    -23.8924
+1814        Midland U.                      3-0-0    -23.8978
+1815        Clark Atlanta                   1-0-0    -23.9902
+1816        Merchant Marine                 2-1-0    -23.9952
+1817        Pomona-Pitzer                   0-2-0    -24.0208
+1818        Ripon                           3-1-0    -24.0655
+1819        Hamline                         1-1-0    -24.0829
+1820        Manchester                      0-1-0    -24.0883
+1821        Rowan                           2-2-0    -24.1477
+1822        Bethel TN                       2-2-0    -24.1502
+1823        Central Methodist               2-3-0    -24.1815
+1824        Moravian                        0-3-0    -24.1826
+1825        Wilkes                          2-3-0    -24.2502
+1826        Lakeland                        3-2-0    -24.2803
+1827        New Jersey                      1-1-0    -24.2919
+1828        Northern St SD                  2-2-0    -24.31
+1829        Western Oregon                  0-1-0    -24.3155
+1830        Delaware Valley                 4-1-0    -24.3717
+1831        Montana Tech                    1-3-0    -24.4263
+1832        Evangel                         2-2-0    -24.4481
+1833        Westminster PA                  2-1-0    -24.471
+1834        Concordia IL                    2-3-0    -24.6476
+1835        Norwich                         0-1-0    -24.6578
+1836        Baldwin Wallace                 3-0-0    -24.6743
+1837        Trine                           2-3-0    -24.6897
+1838        Ohio Northern                   3-2-0    -24.7472
+1839        Western Conn St                 5-0-0    -24.7632
+1840        McPherson                       0-1-0    -24.7938
+1841        Culver-Stockton                 2-2-0    -24.8936
+1842        Wheaton                         4-1-0    -25.0252
+1843        Edward Waters                   1-5-0    -25.0317
+1844        Apprentice                      0-3-0    -25.0724
+1845        William Paterson                1-2-0    -25.0865
+1846        Doane                           2-4-0    -25.1456
+1847        Kansas Wesleyan                 1-4-0    -25.2331
+1848        Carroll WI                      2-2-0    -25.2688
+1849        Greensboro                      2-3-0    -25.2723
+1850        Grove City                      3-1-0    -25.3011
+1851        Lindenwood-Belleville           1-3-0    -25.318
+1852        Hobart                          5-0-0    -25.3348
+1853        North Carolina Wesleyan         0-2-0    -25.3479
+1854        Muskingum                       1-3-0    -25.3915
+1855        St Vincent                      0-3-0    -25.49
+1856        Dordt                           1-3-0    -25.5047
+1857        Merchant Marine                 1-1-0    -25.5409
+1858        Olivet                          4-1-0    -25.5674
+1859        Cumberlands KY                  5-0-0    -25.5853
+1860        UMass-Dartmouth                 0-1-0    -25.6335
+1861        Western New England             0-1-0    -25.6335
+1862        Avila                           0-1-0    -25.6615
+1863        Olivet                          2-3-0    -25.7383
+1864        Rhodes                          3-1-0    -25.747
+1865        Montana-Western                 2-2-0    -25.7627
+1866        Peru St                         3-3-0    -25.8934
+1867        Western St CO                   0-1-0    -25.9178
+1868        Anderson                        0-2-0    -25.9419
+1869        Nichols                         1-1-0    -25.9909
+1870        Hendrix                         3-2-0    -26.0167
+1871        MidAmerica Nazarene             3-1-0    -26.0325
+1872        Stevenson                       3-3-0    -26.0535
+1873        St Lawrence                     5-0-0    -26.0713
+1874        Alfred St                       1-0-0    -26.0967
+1875        Trinity Bible                   0-2-0    -26.1299
+1876        Huntingdon AL                   3-2-0    -26.3808
+1877        Earlham                         1-4-0    -26.461
+1878        Cornell IA                      3-1-0    -26.4864
+1879        Franklin                        3-2-0    -26.5154
+1880        Fairmont St                     3-2-0    -26.5218
+1881        Illinois College                4-2-0    -26.6113
+1882        Mount Ida                       3-0-0    -26.648
+1883        Bacone                          4-2-0    -26.6621
+1884        Lebanon Valley                  5-0-0    -26.6637
+1885        Eastern Oregon                  0-1-0    -26.6874
+1886        St Scholastica                  0-1-0    -26.7138
+1887        Norwich                         4-0-0    -26.7433
+1888        St Vincent                      0-2-0    -26.7964
+1889        UMass-Dartmouth                 0-3-0    -26.798
+1890        Concordia NE                    4-2-0    -26.8502
+1891        Hastings                        2-1-0    -26.9049
+1892        Wayland Baptist                 0-5-0    -26.9683
+1893        Chicago                         4-0-0    -26.9852
+1894        Benedictine KS                  5-1-0    -27.0099
+1895        Central Washington              3-1-0    -27.0778
+1896        Mount Union                     4-0-0    -27.1045
+1897        Springfield                     3-1-0    -27.1453
+1898        New Jersey                      2-1-0    -27.1536
+1899        Capital                         2-1-0    -27.2794
+1900        Nebraska Wesleyan               5-0-0    -27.3599
+1901        RPI                             3-2-0    -27.4563
+1902        Dakota St                       2-4-0    -27.5327
+1903        Salve Regina                    0-1-0    -27.5636
+1904        Coast Guard                     0-1-0    -27.5636
+1905        Wayland Baptist                 0-1-0    -27.6071
+1906        Trinity TX                      3-2-0    -27.613
+1907        Beloit                          1-2-0    -27.6175
+1908        Fitchburg St                    3-2-0    -27.7067
+1909        Hastings                        0-2-0    -27.7773
+1910        Montana Tech                    2-2-0    -27.7889
+1911        Wooster                         3-2-0    -27.8095
+1912        Kean                            1-1-0    -27.8114
+1913        Westminster MO                  0-4-0    -27.8672
+1914        Bethany KS                      2-3-0    -27.9555
+1915        Ithaca                          0-1-0    -28.0081
+1916        Dakota St                       0-3-0    -28.0771
+1917        Cumberland TN                   4-0-0    -28.1583
+1918        Western New England             3-2-0    -28.1974
+1919        Waldorf                         1-3-0    -28.2421
+1920        Allegheny                       0-5-0    -28.267
+1921        Allegheny                       0-3-0    -28.2804
+1922        Maryville                       4-0-0    -28.3295
+1923        Union NY                        2-2-0    -28.3344
+1924        Hope                            4-0-0    -28.3731
+1925        Thiel                           2-3-0    -28.3931
+1926        Chapman                         4-0-0    -28.3986
+1927        Mary Hardin-Baylor              4-0-0    -28.4423
+1928        Grinnell                        1-1-0    -28.4432
+1929        Waynesburg                      4-1-0    -28.4769
+1930        Edward Waters                   0-1-0    -28.477
+1931        Mississippi College             0-1-0    -28.477
+1932        St Mary KS                      2-4-0    -28.5296
+1933        Mt St Joseph                    0-1-0    -28.7146
+1934        SE Oklahoma St                  1-3-0    -28.7535
+1935        Anderson                        0-3-0    -28.9092
+1936        Menlo                           3-1-0    -29.0201
+1937        Becker                          0-2-0    -29.0779
+1938        Rose-Hulman                     3-2-0    -29.1132
+1939        Texas College                   0-4-0    -29.3112
+1940        Upper Iowa                      3-1-0    -29.3549
+1941        Gallaudet                       1-2-0    -29.4438
+1942        Albright                        3-2-0    -29.5088
+1943        Curry                           2-3-0    -29.5946
+1944        Maranatha Baptist               0-4-0    -29.6046
+1945        McPherson                       2-3-0    -29.6144
+1946        Claremont-Mudd-Scripps          2-1-0    -29.653
+1947        Western New England             1-3-0    -29.7109
+1948        Claremont-Mudd-Scripps          0-2-0    -29.7219
+1949        Pikeville                       4-0-0    -29.7429
+1950        Augustana SD                    4-1-0    -29.7808
+1951        Northwestern MN                 0-1-0    -29.7827
+1952        Bethel KS                       2-3-0    -29.7886
+1953        Concordia WI                    4-2-0    -30.0336
+1954        Denison                         2-3-0    -30.3298
+1955        Valley City St                  4-2-0    -30.342
+1956        Ottawa                          5-1-0    -30.3776
+1957        Christopher Newport             4-1-0    -30.4393
+1958        Worcester St                    0-1-0    -30.4642
+1959        Mass Maritime                   2-3-0    -30.5223
+1960        Misericordia                    0-1-0    -30.655
+1961        Eureka                          3-2-0    -30.6603
+1962        Mississippi College             2-1-0    -30.8167
+1963        Iowa Wesleyan                   0-1-0    -30.9726
+1964        Crown                           2-3-0    -30.9794
+1965        Southwestern KS                 4-1-0    -31.0065
+1966        Stevenson                       1-2-0    -31.0144
+1967        Becker                          3-1-0    -31.0158
+1968        Ohio Wesleyan                   2-3-0    -31.0537
+1969        Wisconsin Lutheran              1-3-0    -31.0721
+1970        Rockford                        1-2-0    -31.25
+1971        Austin                          4-1-0    -31.2976
+1972        Sterling                        5-1-0    -31.3269
+1973        Mass Maritime                   3-2-0    -31.3417
+1974        Maine Maritime                  0-2-0    -31.408
+1975        Haskell                         0-2-0    -31.4201
+1976        Valley City St                  0-1-0    -31.4829
+1977        Redlands                        3-1-0    -31.6351
+1978        Graceland                       1-5-0    -32.0242
+1979        Macalester                      1-2-0    -32.0338
+1980        Haskell                         0-1-0    -32.0508
+1981        Missouri S&T                    2-1-0    -32.1232
+1982        Texas Lutheran                  5-1-0    -32.2136
+1983        Southern Virginia               6-1-0    -32.3443
+1984        Thomas More                     5-1-0    -32.3659
+1985        SUNY-Maritime                   1-4-0    -32.3681
+1986        Allegheny                       0-2-0    -32.4582
+1987        Mount Ida                       1-2-0    -32.5853
+1988        Salve Regina                    3-2-0    -32.7351
+1989        Mayville St                     2-2-0    -32.8756
+1990        Cal Lutheran                    2-1-0    -32.9601
+1991        Nichols                         0-2-0    -32.9948
+1992        Muhlenberg                      5-1-0    -33.1362
+1993        Framingham St                   4-0-0    -33.1853
+1994        Westfield St                    2-2-0    -33.2239
+1995        MacMurray                       0-4-0    -33.2257
+1996        Plymouth St                     1-3-0    -33.2591
+1997        Oberlin                         0-4-0    -33.3713
+1998        Fitchburg St                    3-2-0    -33.4627
+1999        MIT                             4-1-0    -33.5906
+2000        Defiance                        1-3-0    -33.6479
+2001        Rockford                        0-2-0    -33.6922
+2002        John Carroll                    4-1-0    -33.7143
+2003        Mt St Joseph                    2-2-0    -33.7955
+2004        Maranatha Baptist               1-3-0    -33.8348
+2005        Ave Maria                       4-1-0    -33.9176
+2006        Graceland                       0-1-0    -34.0158
+2007        Westfield St                    3-2-0    -34.032
+2008        Jamestown                       1-2-0    -34.1736
+2009        Wittenberg                      6-0-0    -34.3491
+2010        Plymouth St                     1-2-0    -34.3502
+2011        Benedictine IL                  4-1-0    -34.3995
+2012        Concordia IL                    0-2-0    -34.4655
+2013        Maranatha Baptist               0-1-0    -34.4864
+2014        Hiram                           1-3-0    -34.7376
+2015        SUNY-Maritime                   1-1-0    -34.8076
+2016        Husson                          4-0-0    -34.9673
+2017        Earlham                         1-2-0    -34.9927
+2018        DePauw                          2-2-0    -35.0538
+2019        Millikin                        2-0-0    -35.1796
+2020        Case Western Reserve            2-1-0    -35.2249
+2021        Kenyon                          2-2-0    -35.2584
+2022        Missouri Valley                 4-0-0    -35.2695
+2023        Maine Maritime                  0-2-0    -35.2897
+2024        Whittier                        1-3-0    -35.3261
+2025        Western Conn St                 3-2-0    -35.3724
+2026        Bridgewater St MA               3-1-0    -35.4503
+2027        Oklahoma Baptist                1-4-0    -35.5262
+2028        Iowa Wesleyan                   0-4-0    -35.5508
+2029        St Norbert                      3-0-0    -35.5852
+2030        Tabor                           5-1-0    -35.5898
+2031        Langston                        3-0-0    -35.7115
+2032        Rowan                           1-0-0    -35.7147
+2033        MacMurray                       0-2-0    -35.7442
+2034        Wayland Baptist                 0-2-0    -35.776
+2035        Oklahoma Baptist                2-2-0    -35.8309
+2036        Martin Luther                   1-2-0    -35.8317
+2037        Oberlin                         3-2-0    -35.8905
+2038        Friends                         5-0-0    -35.9442
+2039        Illinois Wesleyan               5-0-0    -36.1008
+2040        Occidental                      2-2-0    -36.1583
+2041        Concordia MI                    1-0-0    -36.337
+2042        Greenville                      4-1-0    -36.4278
+2043        Hardin-Simmons                  2-3-0    -36.5587
+2044        Avila                           4-2-0    -36.8485
+2045        La Verne                        2-1-0    -36.9474
+2046        Wisconsin Lutheran              3-2-0    -37.285
+2047        Carnegie Mellon                 2-1-0    -37.4327
+2048        Endicott                        4-2-0    -37.4622
+2049        Dickinson St                    1-2-0    -37.5079
+2050        Rose-Hulman                     4-1-0    -37.5438
+2051        McPherson                       3-1-0    -37.5864
+2052        Earlham                         0-2-0    -37.6343
+2053        Presentation                    1-3-0    -37.6945
+2054        Curry                           2-2-0    -37.8161
+2055        Mt St Joseph                    4-1-0    -37.823
+2056        Martin Luther                   0-1-0    -38.0072
+2057        Iowa Wesleyan                   2-3-0    -38.0223
+2058        Wooster                         4-1-0    -38.1895
+2059        Wabash                          5-1-0    -38.3234
+2060        Bluffton                        1-2-0    -38.3461
+2061        Claremont-Mudd-Scripps          1-1-0    -38.48
+2062        Grove City                      2-1-0    -38.6056
+2063        Presentation                    3-2-0    -38.7316
+2064        Hanover                         2-2-0    -39.2114
+2065        Aurora                          3-2-0    -39.2431
+2066        Hanover                         3-2-0    -39.2968
+2067        Mayville St                     4-1-0    -39.6815
+2068        Husson                          0-1-0    -39.7177
+2069        Millersville                    1-0-0    -39.9167
+2070        Lakeland                        4-0-0    -40.0589
+2071        Castleton St                    1-1-0    -40.4964
+2072        Wabash                          4-0-0    -40.6433
+2073        Manchester                      2-3-0    -40.7633
+2074        DePauw                          2-2-0    -40.917
+2075        Hiram                           1-3-0    -41.0291
+2076        Northwestern MN                 3-1-0    -41.1212
+2077        Westminster PA                  1-3-0    -41.196
+2078        Minnesota-Morris                2-3-0    -41.3798
+2079        Worcester St                    1-3-0    -42.1581
+2080        MIT                             2-2-0    -42.1643
+2081        Northwestern MN                 3-2-0    -42.4087
+2082        Trinity Bible                   1-3-0    -42.4412
+2083        Anna Maria                      0-1-0    -42.5567
+2084        Mount Ida                       1-1-0    -42.8192
+2085        Mayville St                     0-1-0    -43.0894
+2086        Bluffton                        0-2-0    -43.3315
+2087        Anderson                        0-2-0    -43.3315
+2088        Willamette                      3-0-0    -43.6741
+2089        Texas College                   1-1-0    -43.9825
+2090        Coast Guard                     3-1-0    -44.0657
+2091        Martin Luther                   3-2-0    -44.4337
+2092        Anna Maria                      1-2-0    -44.6231
+2093        Bacone                          3-1-0    -44.9585
+2094        MacMurray                       0-3-0    -45.1047
+2095        Pomona-Pitzer                   1-1-0    -45.2545
+2096        Crown                           2-3-0    -45.3513
+2097        Maine Maritime                  1-3-0    -45.512
+2098        Minnesota-Morris                1-3-0    -45.5706
+2099        Endicott                        4-0-0    -45.7124
+2100        Webber Int'l                    4-1-0    -45.8756
+2101        Greenville                      5-0-0    -45.8936
+2102        Ohio Wesleyan                   3-2-0    -46.5681
+2103        SUNY-Maritime                   3-0-0    -46.7177
+2104        Denison                         5-0-0    -46.848
+2105        Nichols                         0-3-0    -46.9255
+2106        Manchester                      1-2-0    -47.0683
+2107        Southern Virginia               2-0-0    -47.6628
+2108        Westminster MO                  2-3-0    -47.8965
+2109        Defiance                        2-2-0    -48.4427
+2110        SW Assem of God                 4-1-0    -48.8523
+2111        Loras                           1-0-0    -49.0089
+2112        Kenyon                          2-1-0    -49.3898
+2113        Briar Cliff                     2-0-0    -50.7787
+2114        St Scholastica                  5-0-0    -51.2149
+2115        Haskell                         1-1-0    -55.5901
+2116        Eureka                          5-0-0    -56.1842
+2117        Jamestown                       0-1-0    -56.4427
+2118        Houston Baptist                 1-0-0    -56.7697
+2119        Trinity Bible                   0-1-0    -57.9886

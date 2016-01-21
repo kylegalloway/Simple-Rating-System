@@ -1,0 +1,10 @@
+Rank     Team                            W-L-T    Rating
+1        Yale                            3-0-0    13.6143
+2        Princeton                       2-0-0    11.3286
+3        Columbia                        1-0-0    8.3286
+4        Stevens                         2-0-0    8.3286
+5        Rutgers                         1-1-0    2.7571
+6        Stevens                         1-1-0    -1.2143
+7        Columbia                        0-5-0    -11.0714
+8        Rutgers                         0-2-0    -11.0714
+9        New York University             0-1-0    -14.0714

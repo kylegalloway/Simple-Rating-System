@@ -1,8 +1,8 @@
 '''
-	Simple Rating System
+    Simple Rating System
     by: Kyle Galloway
 
-	# A rudimentary college football rating system.
+    # A rudimentary college football rating system.
 '''
 import sys
 import time
