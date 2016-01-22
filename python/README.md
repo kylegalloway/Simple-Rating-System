@@ -1,8 +1,12 @@
-Operational notes in each language's README.md file.
+# Simple Rating System
+
+### Operation
+1. Clone the repository.
+2. Open a terminal/command prompt.
+3. Run:   ```python3 SRS.py data/(textfile)``` where (textfile) is replaced with the file you want to run against.
+5. Results are in the output directories.
 
 Only tested on Linux/OSX.
-
-# Simple Rating System
 
 ### Some Links to explanations of how it works
 * http://www.pro-football-reference.com/blog/?p=37
@@ -27,6 +31,3 @@ The SRS puts equal weight on all games, something the brain is not good at doing
 It takes a bit to run on the larger files.
 
 The final results are not perfect. So if you have any ideas on how to improve it please submit an issue/pull request.
-
-# Elo Rating System
-Coming soon!
