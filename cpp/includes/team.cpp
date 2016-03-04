@@ -1,35 +1,27 @@
-class Team
+#include "team.h"
+
+Team::Team(string name, string next)
 {
-/*
-    def __init__(self,name,next = None):
-        self._name = name
-        self._rating, self._performance, self._scheduleFactor = 0.0, 0.0, 0.0
-        self._wins, self._losses, self._ties = 0, 0, 0
-        self.next = next
-*/
-    private:
-        String name;
-        double rating;
-        double performance;
-        double scheduleFactor;
-        int wins;
-        int losses;
-        int ties;
-        String next;
-
-    public:
-        String getTeam(this) { return this.name; }
-        double getRating(this) { return this.rating; }
-        double getPerformance(this) { return this.performance; }
-        double getScheduleFactor(this) { return this.scheduleFactor; }
-        int getWins(this) { return this.wins; }
-        int getLosses(this) { return this.losses; }
-        int getTies(this) { return this.ties; }
-
-        void setRating(this, rating) { this.rating = rating; }
-        void setPerformance(this, performance) { this.performance = performance; }
-        void setScheduleFactor(this, factor) { this.scheduleFactor = factor; }
-        void setWins(this, wins) { this.wins = wins; }
-        void setLosses(this, losses) { this.losses = losses; }
-        void setTies(this, ties) { this.ties = ties; }
+    this->name = name;
+    this->rating = 0.0;
+    this->performance = 0.0;
+    this->scheduleFactor = 0.0;
+    this->wins = 0;
+    this->losses = 0;
+    this->ties = 0;
+    this->next = next;
 }
+string Team::getName(void) { return this->name; }
+double Team::getRating(void) { return this->rating; }
+double Team::getPerformance(void) { return this->performance; }
+double Team::getScheduleFactor(void) { return this->scheduleFactor; }
+int Team::getWins(void) { return this->wins; }
+int Team::getLosses(void) { return this->losses; }
+int Team::getTies(void) { return this->ties; }
+
+void Team::setRating(double rating) { this->rating = rating; }
+void Team::setPerformance(double performance) { this->performance = performance; }
+void Team::setScheduleFactor(double factor) { this->scheduleFactor = factor; }
+void Team::setWins(int wins) { this->wins = wins; }
+void Team::setLosses(int losses) { this->losses = losses; }
+void Team::setTies(int ties) { this->ties = ties; }

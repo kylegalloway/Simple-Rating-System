@@ -1,25 +1,11 @@
-class Game
+#include "game.h"
+
+Game::Game(string team2, int scoreDiff, Game *next)
 {
-/*
-    def __init__(self, team2, scoreDiff, next = None):
-        self._team2 = team2
-        self._scoreDiff = scoreDiff
-        self.next = next
-*/
-    private:
-        /* String or Team?? */
-        String team2;
-        int scoreDiff;
-        String next;
+    this->team2 = team2;
+    this->scoreDiff = scoreDiff;
+    this->next = next;
+}
 
-    public:
-        String getTeam2(this)
-        {
-            return this._team2
-        }
-
-        int getScoreDiff(this)
-        {
-            return self._scoreDiff
-        }
-};
+string Game::getTeam2Name(void) { return this->team2; }
+int Game::getScoreDiff(void) { return this->scoreDiff; }
