@@ -1,0 +1,10 @@
+Columbia                           1 Rutgers                            6
+Columbia                           2 Stevens                            4
+Stevens                            6 Rutgers                            0
+Columbia                           0 Princeton                          6
+New York University                0 Stevens                            6
+Rutgers                            1 Columbia                           4
+Rutgers                            0 Princeton                          6
+Stevens                            0 Yale                               6
+Columbia                           1 Yale                               5
+Columbia                           1 Yale                               6

@@ -1,6 +1,6 @@
 from includes.team import Team
 from includes.adj_list import AdjList
-from includes.rating_algorithm import RatingAlgorithm
+from includes.borie_rating_algorithm import RatingAlgorithm
 
 class Graph():
 
