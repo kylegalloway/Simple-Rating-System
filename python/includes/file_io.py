@@ -1,26 +1,28 @@
+import csv
 import re
 
 class FileIO():
 
     def __init__(self,filename):
         self._inputFilename = filename
-        self._outputFilename = re.sub('[a-zA-z0-9]*/*', '', filename)
+        self._outputFilename = re.sub('[a-zA-z0-9]*/', '', filename)[:-4]
 
     def readFile(self):
-        print('Reading File...')
+        print('Reading File ' + self._inputFilename + ' ...')
         return open(self._inputFilename, 'r')
 
-    def parseLine(self, line = None):
-        if line:
-            pattern = re.compile(r'(?P<awayTeam>[^0-9]+)(?P<awayScore>[0-9]+)(?P<homeTeam>[^0-9]+)(?P<homeScore>[0-9]+)')
-            game = pattern.search(str(line).strip())
-
-            return game
+    def parseFile(self, file = None):
+        if file:
+            arr = []
+            reader = csv.reader(file, skipinitialspace=True)
+            for r in reader:
+                arr.append(r)
+            return arr[1:]
         return None
 
     def printRatings(self, array, dict):
         print("Printing Ratings...")
-        newfilename = 'output/Ratings/ratings_' + self._outputFilename
+        newfilename = 'output/Ratings/ratings_' + self._outputFilename + '.txt'
         with open(newfilename, 'w') as f:
             spacer = ' ' * 28
             f.write(('Rank     Team{0}W-L-T    Rating\n').format(spacer))
@@ -36,7 +38,7 @@ class FileIO():
                 spacer = ' ' * (32 - len(team))
                 f.write(('{0}        {1}{2}{3}-{4}-{5}    {6}\n').format(count,team,spacer,W,L,T,round(rating,4)))
                 count += 1
-        newfilename = 'output/SOS/strofsch_' + self._outputFilename
+        newfilename = 'output/SOS/strofsch_' + self._outputFilename + '.txt'
         with open(newfilename, 'w') as f:
             spacer = ' ' * 28
             f.write(('Rank     Team{0}W-L-T    Schedule Factor\n').format(spacer))

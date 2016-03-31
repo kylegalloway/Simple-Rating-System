@@ -13,15 +13,15 @@ class Graph():
     def buildGraph(self, reader):
         file = reader.readFile()
 
-        for line in file:
-            game = reader.parseLine(line)
+        games = reader.parseFile(file)
 
-        if game:
-            scoreDiff1 = eval(game.group(2)) - eval(game.group(4))
-            scoreDiff2 = 0 - scoreDiff1
-            scoreDiff1 = self.algorithm.improveScores(scoreDiff1)
-            scoreDiff2 = self.algorithm.improveScores(scoreDiff2)
-            self.fillGraph(game.group(1),game.group(3),scoreDiff1,scoreDiff2)
+        if games:
+            for game in games:
+                scoreDiff1 = eval(game[1]) - eval(game[3])
+                scoreDiff2 = 0 - scoreDiff1
+                scoreDiff1 = self.algorithm.improveScores(scoreDiff1)
+                scoreDiff2 = self.algorithm.improveScores(scoreDiff2)
+                self.fillGraph(game[0],game[2],scoreDiff1,scoreDiff2)
         print("Done")
 
 

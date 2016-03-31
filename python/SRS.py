@@ -21,4 +21,12 @@ def main(filename):
     file.printRatings(teamNames,teams)
     print()
 
-main(sys.argv[1])
+if (len(sys.argv) == 2):
+    main(sys.argv[1])
+elif(len(sys.argv) == 1):
+    import os
+    for f in os.listdir("csv"):
+        main("csv/"+f)
+else:
+    print("Run with "+sys.argv[0]+" to produce all possible rankings.\n")
+    print("Run with "+sys.argv[0]+" <csv/filename> to produce rankings for <filename>.\n")

@@ -1,10 +1,7 @@
 Rank     Team                            W-L-T    Schedule Factor
-1        Rutgers                         1-1-0    3.2571
-2        Yale                            3-0-0    1.6143
-3        Columbia                        0-5-0    0.5286
-4        Rutgers                         0-2-0    0.4286
-5        New York University             0-1-0    -1.0714
-6        Stevens                         1-1-0    -1.2143
-7        Columbia                        1-0-0    -1.6714
-8        Princeton                       2-0-0    -1.6714
-9        Stevens                         2-0-0    -3.1714
+1        Columbia                        1-5-0    3.394
+2        New York University             0-1-0    3.314
+3        Rutgers                         1-3-0    0.514
+4        Yale                            3-0-0    -1.966
+5        Stevens                         3-1-0    -2.436
+6        Princeton                       2-0-0    -5.046
