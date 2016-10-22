@@ -1,21 +1,18 @@
-#ifndef __GAME_H_INCLUDED__
-#define __GAME_H_INCLUDED__
+#pragma once
 
 #include <string>
 using namespace std;
 
 class Game
 {
-private:
-    string team2;
-    int scoreDiff;
-
 public:
-    Game *next;
-
     Game(string team2, int scoreDiff, Game *next = NULL);
     string getTeam2Name(void);
     int getScoreDiff(void);
-};
+    Game getNext();
 
-#endif
+private:
+    Game *next;
+    string team2;
+    int scoreDiff;
+};

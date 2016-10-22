@@ -7,14 +7,19 @@ AdjList::AdjList(void)
     this->size = 0;
 }
 
-int AdjList::getSize(void) { return this->size; }
+int AdjList::getSize(void)
+{
+    return this->size;
+}
 
 void AdjList::insertHead(string name)
 {
     this->tail = this->head;
     this->head = new Team(name);
     if (this->tail == NULL)
+    {
         this->tail = this->head;
+    }
     this->size += 1;
 }
 

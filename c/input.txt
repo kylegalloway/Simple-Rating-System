@@ -1,3 +1,0 @@
-lines 1
-lining 2
-lined 3
