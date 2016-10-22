@@ -1,18 +1,20 @@
 #pragma once
 
 #include <string>
+#include "node.h"
 using namespace std;
 
-class Game
+class Game : public Node
 {
 public:
-    Game(string team2, int scoreDiff, Game *next = NULL);
-    string getTeam2Name(void);
-    int getScoreDiff(void);
-    Game getNext();
+    Game(string team2, int scoreDiff, Node *next = NULL);
+    string getTeam2Name();
+    int getScoreDiff();
+
+    Node next();
 
 private:
-    Game *next;
-    string team2;
-    int scoreDiff;
+    Node *next_;
+    string team2_;
+    int scoreDiff_;
 };

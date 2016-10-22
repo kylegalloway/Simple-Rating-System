@@ -2,25 +2,23 @@
 
 #include <string>
 #include "team.h"
-/* #include "../includes/team.cpp" */
 #include "game.h"
-/* #include "../includes/game.cpp" */
 using namespace std;
 
 class AdjList
 {
 public:
-    AdjList(void);
-    int getSize(void);
+    AdjList();
+    int getSize();
     void insertHead(string name);
     void insert(string team2, int scoreDiff);
-    Team* getHead(void);
-    Game* getTail(void);
+    Team* getHead();
+    Game* getTail();
 
 private:
-    Team *head;
-    Game *tail;
-    Game *curr;
-    int size;
+    Team* head_;
+    Game* tail_;
+    Game* curr_;
+    int size_;
 };
 

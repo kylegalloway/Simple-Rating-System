@@ -72,7 +72,7 @@ string[] RatingAlgorithm::rateTeams(string[] array, Dict dict)
         array[i].head.setLosses(L);
         array[i].head.setTies(T);
 
-    for (i = 0; i < this->ITERATIONS; i++)
+    for (i = 0; i < ITERATIONS; i++)
     {
         for (j = 0; j < array.size(); j++)
         {

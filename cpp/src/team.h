@@ -1,19 +1,20 @@
 #pragma once
 
 #include <string>
+#include "node.h"
 using namespace std;
 
-class Team
+class Team : public Node
 {
 public:
     Team(string name, string next = "");
-    string getName(void);
-    double getRating(void);
-    double getPerformance(void);
-    double getScheduleFactor(void);
-    int getWins(void);
-    int getLosses(void);
-    int getTies(void);
+    string getName();
+    double getRating();
+    double getPerformance();
+    double getScheduleFactor();
+    int getWins();
+    int getLosses();
+    int getTies();
     void setRating(double rating);
     void setPerformance(double performance);
     void setScheduleFactor(double factor);
@@ -21,13 +22,15 @@ public:
     void setLosses(int losses);
     void setTies(int ties);
 
+    Node next();
+
 private:
-    string name;
-    double rating;
-    double performance;
-    double scheduleFactor;
-    int wins;
-    int losses;
-    int ties;
-    string next;
+    string name_;
+    double rating_;
+    double performance_;
+    double scheduleFactor_;
+    int wins_;
+    int losses_;
+    int ties_;
+    string next_;
 };
